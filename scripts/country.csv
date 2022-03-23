@@ -1,0 +1,440 @@
+href,id,name,popularity,uri,album.name
+https://api.spotify.com/v1/tracks/0ME4uQYTQmovH1v9PbWqW2,0ME4uQYTQmovH1v9PbWqW2,Lead Me On,0,spotify:track:0ME4uQYTQmovH1v9PbWqW2,Lead Me On
+https://api.spotify.com/v1/tracks/4RGa1ZQK9FxkNB9z9UHrjU,4RGa1ZQK9FxkNB9z9UHrjU,You've Got to Stand for Something,0,spotify:track:4RGa1ZQK9FxkNB9z9UHrjU,Greatest Hits And Then Some
+https://api.spotify.com/v1/tracks/0heZHWvPTugMPPWwyYrnIW,0heZHWvPTugMPPWwyYrnIW,Bittersweet (feat. Lindsay Ell),0,spotify:track:0heZHWvPTugMPPWwyYrnIW,Bittersweet (feat. Lindsay Ell)
+https://api.spotify.com/v1/tracks/5XcMzuskwO305UC7RBm9Zu,5XcMzuskwO305UC7RBm9Zu,Hell On The Heart,0,spotify:track:5XcMzuskwO305UC7RBm9Zu,Carolina
+https://api.spotify.com/v1/tracks/2oPCR02nduYVpj7CTfsA0d,2oPCR02nduYVpj7CTfsA0d,Blue Tacoma,2,spotify:track:2oPCR02nduYVpj7CTfsA0d,Yours
+https://api.spotify.com/v1/tracks/48soTbO64fT2Xw3xxvAXY5,48soTbO64fT2Xw3xxvAXY5,Whoever Broke Your Heart,0,spotify:track:48soTbO64fT2Xw3xxvAXY5,Whoever Broke Your Heart
+https://api.spotify.com/v1/tracks/0IF0vGwaJQ8ZCh0QxhW6OV,0IF0vGwaJQ8ZCh0QxhW6OV,Man! I Feel Like A Woman!,0,spotify:track:0IF0vGwaJQ8ZCh0QxhW6OV,Come On Over
+https://api.spotify.com/v1/tracks/4WygRabom8WGpPb44r40sK,4WygRabom8WGpPb44r40sK,American Soldier,0,spotify:track:4WygRabom8WGpPb44r40sK,Shock 'N Y'all
+https://api.spotify.com/v1/tracks/6hOHH3nj5VI7IskIUic0WQ,6hOHH3nj5VI7IskIUic0WQ,Yesterday's Song,0,spotify:track:6hOHH3nj5VI7IskIUic0WQ,Yesterday's Song
+https://api.spotify.com/v1/tracks/6EUEnvlcNhfkWhZFy0GZI5,6EUEnvlcNhfkWhZFy0GZI5,From Where I'm Standing,0,spotify:track:6EUEnvlcNhfkWhZFy0GZI5,Undeniably Country
+https://api.spotify.com/v1/tracks/7kCXmYJeltdnCMMsfwaCsf,7kCXmYJeltdnCMMsfwaCsf,Thought About You,0,spotify:track:7kCXmYJeltdnCMMsfwaCsf,Thought About You
+https://api.spotify.com/v1/tracks/7acgW25ap5tdsqvmtx2Zyt,7acgW25ap5tdsqvmtx2Zyt,I Don't Know About You,0,spotify:track:7acgW25ap5tdsqvmtx2Zyt,Laps Around The Sun
+https://api.spotify.com/v1/tracks/6jqTb1OLC379SqjjIB0Ukg,6jqTb1OLC379SqjjIB0Ukg,Good Together,0,spotify:track:6jqTb1OLC379SqjjIB0Ukg,Good Together
+https://api.spotify.com/v1/tracks/28dfxTgOAmwM1DhplcIB7G,28dfxTgOAmwM1DhplcIB7G,When It Comes To Loving You,0,spotify:track:28dfxTgOAmwM1DhplcIB7G,When It Comes To Loving You
+https://api.spotify.com/v1/tracks/18la0MdLGXAKbflRNAerRf,18la0MdLGXAKbflRNAerRf,God Bless This Mess,0,spotify:track:18la0MdLGXAKbflRNAerRf,Side A
+https://api.spotify.com/v1/tracks/1KlCaFgBM9VouwAcqBagQV,1KlCaFgBM9VouwAcqBagQV,I Love This Bar,0,spotify:track:1KlCaFgBM9VouwAcqBagQV,Shock 'N Y'all
+https://api.spotify.com/v1/tracks/1CoOHJAHtKEDnUBrp3nKAB,1CoOHJAHtKEDnUBrp3nKAB,Ride (feat. Macy Maloy),1,spotify:track:1CoOHJAHtKEDnUBrp3nKAB,Ignite the Night (Party Edition)
+https://api.spotify.com/v1/tracks/24DYu18da9ezSi0Oevv3xq,24DYu18da9ezSi0Oevv3xq,If It Ain't You,0,spotify:track:24DYu18da9ezSi0Oevv3xq,If It Ain't You
+https://api.spotify.com/v1/tracks/0KefTgKt7yjGkKPyO7yryV,0KefTgKt7yjGkKPyO7yryV,Sunrise,1,spotify:track:0KefTgKt7yjGkKPyO7yryV,Mescalito
+https://api.spotify.com/v1/tracks/6cwefViZyfc3i6VIod7rnK,6cwefViZyfc3i6VIod7rnK,Blame It on Me,0,spotify:track:6cwefViZyfc3i6VIod7rnK,Adam Wakefield
+https://api.spotify.com/v1/tracks/69ku805AjIcFQh0IfkGohf,69ku805AjIcFQh0IfkGohf,Should've Been A Cowboy,0,spotify:track:69ku805AjIcFQh0IfkGohf,Toby Keith
+https://api.spotify.com/v1/tracks/4o8STNAL91xc7EvuvqSKk1,4o8STNAL91xc7EvuvqSKk1,Whatever It Is,0,spotify:track:4o8STNAL91xc7EvuvqSKk1,The Foundation
+https://api.spotify.com/v1/tracks/132PonN0vUr9BLDe0DmIYs,132PonN0vUr9BLDe0DmIYs,Wish You Were Here,0,spotify:track:132PonN0vUr9BLDe0DmIYs,Wish You Were Here
+https://api.spotify.com/v1/tracks/2QGa7i7o0UwmgUsSkM8Tt4,2QGa7i7o0UwmgUsSkM8Tt4,Down To The Honkytonk,0,spotify:track:2QGa7i7o0UwmgUsSkM8Tt4,Jake Owen
+https://api.spotify.com/v1/tracks/7ELW8QMNYkoxWskwXMD3WW,7ELW8QMNYkoxWskwXMD3WW,Here Tonight,0,spotify:track:7ELW8QMNYkoxWskwXMD3WW,Here Tonight
+https://api.spotify.com/v1/tracks/7t8U3P4HNu6lH1uj0tlFMi,7t8U3P4HNu6lH1uj0tlFMi,Little Rain,0,spotify:track:7t8U3P4HNu6lH1uj0tlFMi,If I Know Me
+https://api.spotify.com/v1/tracks/7AnGT6SsidoBRPhaQo8r11,7AnGT6SsidoBRPhaQo8r11,Smoke In Her Eyes,0,spotify:track:7AnGT6SsidoBRPhaQo8r11,Did It For The Party
+https://api.spotify.com/v1/tracks/7v7ytRZIWuZuNxXSGwxIhK,7v7ytRZIWuZuNxXSGwxIhK,Gin and Juice,0,spotify:track:7v7ytRZIWuZuNxXSGwxIhK,Shinebox
+https://api.spotify.com/v1/tracks/1eFrhAmzoQnTlwvnqvLt7D,1eFrhAmzoQnTlwvnqvLt7D,Five More Minutes,0,spotify:track:1eFrhAmzoQnTlwvnqvLt7D,Seasons Change
+https://api.spotify.com/v1/tracks/2uZhNjlUQ9mnt0rS7hcAgF,2uZhNjlUQ9mnt0rS7hcAgF,Smoke A Little Smoke,2,spotify:track:2uZhNjlUQ9mnt0rS7hcAgF,Carolina
+https://api.spotify.com/v1/tracks/1yEwEiTpsaPhQi9lb5EVV4,1yEwEiTpsaPhQi9lb5EVV4,Knee Deep (feat. Jimmy Buffett),1,spotify:track:1yEwEiTpsaPhQi9lb5EVV4,You Get What You Give (Deluxe)
+https://api.spotify.com/v1/tracks/77A7dWpSxVoauUbJn83Oj3,77A7dWpSxVoauUbJn83Oj3,Country Boy (feat. George Jones & Charlie Daniels),3,spotify:track:77A7dWpSxVoauUbJn83Oj3,Town Line
+https://api.spotify.com/v1/tracks/4ivJ1KEoJ6S93JbSWvOME1,4ivJ1KEoJ6S93JbSWvOME1,There Was This Girl,0,spotify:track:4ivJ1KEoJ6S93JbSWvOME1,In A Truck Right Now
+https://api.spotify.com/v1/tracks/798L3U4TvN82aGjqcVOzQX,798L3U4TvN82aGjqcVOzQX,Better Me,0,spotify:track:798L3U4TvN82aGjqcVOzQX,Here's to You
+https://api.spotify.com/v1/tracks/7fCYf72AG7AdiEWv3wa0jV,7fCYf72AG7AdiEWv3wa0jV,There’s A Girl,0,spotify:track:7fCYf72AG7AdiEWv3wa0jV,You Got 'Em All
+https://api.spotify.com/v1/tracks/6GBndDk0OEpDkmKoSBJyyK,6GBndDk0OEpDkmKoSBJyyK,Lose It,0,spotify:track:6GBndDk0OEpDkmKoSBJyyK,Lose It
+https://api.spotify.com/v1/tracks/2SdlDofWM5vqkM0FMnjcvS,2SdlDofWM5vqkM0FMnjcvS,Party For Two - Country Version With Intro,0,spotify:track:2SdlDofWM5vqkM0FMnjcvS,Party For Two
+https://api.spotify.com/v1/tracks/20vIaD2DFOxGqDvN0dlMEH,20vIaD2DFOxGqDvN0dlMEH,The Ones That Didn’t Make It Back Home,0,spotify:track:20vIaD2DFOxGqDvN0dlMEH,The Ones That Didn’t Make It Back Home
+https://api.spotify.com/v1/tracks/1co0puPTYvqAdUEjFOjne9,1co0puPTYvqAdUEjFOjne9,Simple,0,spotify:track:1co0puPTYvqAdUEjFOjne9,Florida Georgia Line
+https://api.spotify.com/v1/tracks/6aLl1AjRbo4ddJZh7Hzazx,6aLl1AjRbo4ddJZh7Hzazx,Southside Of Heaven,2,spotify:track:6aLl1AjRbo4ddJZh7Hzazx,Mescalito
+https://api.spotify.com/v1/tracks/24ysdDtsZjfrTIXZRKrwpw,24ysdDtsZjfrTIXZRKrwpw,The Difference,0,spotify:track:24ysdDtsZjfrTIXZRKrwpw,Tyler Rich EP
+https://api.spotify.com/v1/tracks/1pa7g1J3vUYRrcg5GRTZdK,1pa7g1J3vUYRrcg5GRTZdK,Bleachers,0,spotify:track:1pa7g1J3vUYRrcg5GRTZdK,Side A
+https://api.spotify.com/v1/tracks/59fi7eaSe4DuCqfua35m2W,59fi7eaSe4DuCqfua35m2W,Diamonds or Twine,0,spotify:track:59fi7eaSe4DuCqfua35m2W,Diamonds or Twine
+https://api.spotify.com/v1/tracks/33ntke7makdcaGe5DsmcLi,33ntke7makdcaGe5DsmcLi,If I'm Bein' honest,0,spotify:track:33ntke7makdcaGe5DsmcLi,If I'm Bein' honest
+https://api.spotify.com/v1/tracks/1epkfJh7ST3fvlKaZyItIE,1epkfJh7ST3fvlKaZyItIE,Wherever You Are,0,spotify:track:1epkfJh7ST3fvlKaZyItIE,Seasons Change
+https://api.spotify.com/v1/tracks/68iwafs32FXpAIDWqU8wdU,68iwafs32FXpAIDWqU8wdU,Made In America,0,spotify:track:68iwafs32FXpAIDWqU8wdU,Clancy's Tavern (Deluxe Edition)
+https://api.spotify.com/v1/tracks/7ijc4vv1XTe7HRRY9ScmPD,7ijc4vv1XTe7HRRY9ScmPD,God Blessed Texas,0,spotify:track:7ijc4vv1XTe7HRRY9ScmPD,Big Time
+https://api.spotify.com/v1/tracks/20VA87wvgkMuD2NI6u47gJ,20VA87wvgkMuD2NI6u47gJ,No Stone Unturned,0,spotify:track:20VA87wvgkMuD2NI6u47gJ,No Stone Unturned
+https://api.spotify.com/v1/tracks/4HN6Eun4JnXnjaQ8b1J1MS,4HN6Eun4JnXnjaQ8b1J1MS,Goodbye Earl,1,spotify:track:4HN6Eun4JnXnjaQ8b1J1MS,Fly/Wide Open Spaces
+https://api.spotify.com/v1/tracks/3tEYaYV2rrsAcL6AcPxetH,3tEYaYV2rrsAcL6AcPxetH,Who I Am,0,spotify:track:3tEYaYV2rrsAcL6AcPxetH,Who I Am
+https://api.spotify.com/v1/tracks/5zvRf0L8Fdb457kkcA8mtj,5zvRf0L8Fdb457kkcA8mtj,All Out,9,spotify:track:5zvRf0L8Fdb457kkcA8mtj,All Out
+https://api.spotify.com/v1/tracks/6VpH1OWblmhNa24BdLvb0d,6VpH1OWblmhNa24BdLvb0d,Some Girls,0,spotify:track:6VpH1OWblmhNa24BdLvb0d,Jameson Rodgers
+https://api.spotify.com/v1/tracks/7vSsQGytMJvOh31mqn4pFS,7vSsQGytMJvOh31mqn4pFS,Blue Jean Baby,0,spotify:track:7vSsQGytMJvOh31mqn4pFS,Jimmie Allen
+https://api.spotify.com/v1/tracks/0fZq48okuWkpAgjsWogAJ4,0fZq48okuWkpAgjsWogAJ4,I Loved Her First,0,spotify:track:0fZq48okuWkpAgjsWogAJ4,I Loved Her First
+https://api.spotify.com/v1/tracks/3ngc7rGlfeFaskU90EWl4R,3ngc7rGlfeFaskU90EWl4R,You Say,0,spotify:track:3ngc7rGlfeFaskU90EWl4R,Look Up Child
+https://api.spotify.com/v1/tracks/5ZByFP0riKU6Feu5eBaA8A,5ZByFP0riKU6Feu5eBaA8A,When You're Gone,0,spotify:track:5ZByFP0riKU6Feu5eBaA8A,When You're Gone
+https://api.spotify.com/v1/tracks/44I91P5aG9AjpMdxnQTjoe,44I91P5aG9AjpMdxnQTjoe,I Was Jack (You Were Diane),0,spotify:track:44I91P5aG9AjpMdxnQTjoe,Jake Owen
+https://api.spotify.com/v1/tracks/7Iykxm9uV9n1Z9mKMc3N2h,7Iykxm9uV9n1Z9mKMc3N2h,Believe,0,spotify:track:7Iykxm9uV9n1Z9mKMc3N2h,The Collection
+https://api.spotify.com/v1/tracks/4PKPYaqznLL7PVwM6U3vWq,4PKPYaqznLL7PVwM6U3vWq,Reload (feat. Taylor Ray Holbrook),0,spotify:track:4PKPYaqznLL7PVwM6U3vWq,Love Hope Faith
+https://api.spotify.com/v1/tracks/1IbBOALQK9tIjbJTQTO4YU,1IbBOALQK9tIjbJTQTO4YU,Longhaired Redneck,0,spotify:track:1IbBOALQK9tIjbJTQTO4YU,David Allan Coe 17 Greatest Hits
+https://api.spotify.com/v1/tracks/3P3vYTeOuaBaBvonNbtTNx,3P3vYTeOuaBaBvonNbtTNx,"Tall, Tall Trees",0,spotify:track:3P3vYTeOuaBaBvonNbtTNx,The Greatest Hits Collection
+https://api.spotify.com/v1/tracks/3xIxLHtJe4do8Xe1b6Wtf4,3xIxLHtJe4do8Xe1b6Wtf4,Something To Ride To,0,spotify:track:3xIxLHtJe4do8Xe1b6Wtf4,Jake Owen
+https://api.spotify.com/v1/tracks/2xYlyywNgefLCRDG8hlxZq,2xYlyywNgefLCRDG8hlxZq,"Take Me Home, Country Roads - Rerecorded",2,spotify:track:2xYlyywNgefLCRDG8hlxZq,"The John Denver Collection, Vol. 1: Take Me Home Country Roads"
+https://api.spotify.com/v1/tracks/5LG58bLzuwc7iqlJNIqZGb,5LG58bLzuwc7iqlJNIqZGb,Ghosts,0,spotify:track:5LG58bLzuwc7iqlJNIqZGb,Ghosts
+https://api.spotify.com/v1/tracks/2hCgGbZGeiUImDzzIzm0UV,2hCgGbZGeiUImDzzIzm0UV,Bitches,0,spotify:track:2hCgGbZGeiUImDzzIzm0UV,Mitchell Tenpenny - EP
+https://api.spotify.com/v1/tracks/1fC13X9Ob5KI982tNtrOhG,1fC13X9Ob5KI982tNtrOhG,Roots,0,spotify:track:1fC13X9Ob5KI982tNtrOhG,Welcome Home
+https://api.spotify.com/v1/tracks/0ghHCXGmbUb2xTof1u59aQ,0ghHCXGmbUb2xTof1u59aQ,Good Time,0,spotify:track:0ghHCXGmbUb2xTof1u59aQ,Good Time
+https://api.spotify.com/v1/tracks/288LnmFZJVkxyslMocxW1W,288LnmFZJVkxyslMocxW1W,Take Back Home Girl (feat. Tori Kelly),0,spotify:track:288LnmFZJVkxyslMocxW1W,Laps Around The Sun
+https://api.spotify.com/v1/tracks/4L9TrvjOnUjOVqPusbCQfs,4L9TrvjOnUjOVqPusbCQfs,Ain't Nothing 'Bout You,0,spotify:track:4L9TrvjOnUjOVqPusbCQfs,The Collection
+https://api.spotify.com/v1/tracks/4zvaFze8JDdi7h2Zlp8jhZ,4zvaFze8JDdi7h2Zlp8jhZ,Third Rate Romance,0,spotify:track:4zvaFze8JDdi7h2Zlp8jhZ,Feelin' Good Train
+https://api.spotify.com/v1/tracks/4bWlAEbGHhPKQNjhTstN2p,4bWlAEbGHhPKQNjhTstN2p,Free,0,spotify:track:4bWlAEbGHhPKQNjhTstN2p,The Foundation
+https://api.spotify.com/v1/tracks/7w4C4glzX2OpvB53tmZ8qr,7w4C4glzX2OpvB53tmZ8qr,Whiskey's Fine,0,spotify:track:7w4C4glzX2OpvB53tmZ8qr,Adam Doleac
+https://api.spotify.com/v1/tracks/1tpLxOKuAaRCViAxf2pgNr,1tpLxOKuAaRCViAxf2pgNr,Whiskey Lullaby,0,spotify:track:1tpLxOKuAaRCViAxf2pgNr,Original Album Classics
+https://api.spotify.com/v1/tracks/79LlAMTYVtstx7OtxCmgRZ,79LlAMTYVtstx7OtxCmgRZ,You Never Even Called Me By My Name,0,spotify:track:79LlAMTYVtstx7OtxCmgRZ,The Essential David Allan Coe
+https://api.spotify.com/v1/tracks/6eV1WQZFXOfSI0qaMCqJtl,6eV1WQZFXOfSI0qaMCqJtl,Home And A Hometown,0,spotify:track:6eV1WQZFXOfSI0qaMCqJtl,Home And A Hometown
+https://api.spotify.com/v1/tracks/6RSNKGdv3nDTHqgw4bdzyF,6RSNKGdv3nDTHqgw4bdzyF,Yours,1,spotify:track:6RSNKGdv3nDTHqgw4bdzyF,Yours
+https://api.spotify.com/v1/tracks/4zYMb5KWsNjjobVNdeh4wK,4zYMb5KWsNjjobVNdeh4wK,You Belong,0,spotify:track:4zYMb5KWsNjjobVNdeh4wK,You Belong
+https://api.spotify.com/v1/tracks/6KakW7FbrJJzbqW87oMPm2,6KakW7FbrJJzbqW87oMPm2,Small Town Southern Man,0,spotify:track:6KakW7FbrJJzbqW87oMPm2,Good Time
+https://api.spotify.com/v1/tracks/6GddupezBNkWmUAGeBpSfI,6GddupezBNkWmUAGeBpSfI,If I Were You (feat. Keith Urban),0,spotify:track:6GddupezBNkWmUAGeBpSfI,If I Were You (feat. Keith Urban)
+https://api.spotify.com/v1/tracks/5HnXcJJbNXQQ7tRlQ9VN1v,5HnXcJJbNXQQ7tRlQ9VN1v,Good Girl,0,spotify:track:5HnXcJJbNXQQ7tRlQ9VN1v,Good Girl
+https://api.spotify.com/v1/tracks/3fGAtNsZfBCnFthW8XnhlU,3fGAtNsZfBCnFthW8XnhlU,"Willie, Waylon and Me",0,spotify:track:3fGAtNsZfBCnFthW8XnhlU,The Essential David Allan Coe
+https://api.spotify.com/v1/tracks/4BPkkDhlYHx9zhv3vaOxJw,4BPkkDhlYHx9zhv3vaOxJw,A Love Like This,0,spotify:track:4BPkkDhlYHx9zhv3vaOxJw,Masterpiece
+https://api.spotify.com/v1/tracks/0Is6MRHWKe7y2xIxDkvO6l,0Is6MRHWKe7y2xIxDkvO6l,"Speakers, Bleachers And Preachers",0,spotify:track:0Is6MRHWKe7y2xIxDkvO6l,Speakers
+https://api.spotify.com/v1/tracks/3RAy86KYMKfRViQeGpF5mh,3RAy86KYMKfRViQeGpF5mh,Prayed for You,0,spotify:track:3RAy86KYMKfRViQeGpF5mh,Prayed for You
+https://api.spotify.com/v1/tracks/6eKhWSDPM9cDicwsBCvUwB,6eKhWSDPM9cDicwsBCvUwB,Love That About You,0,spotify:track:6eKhWSDPM9cDicwsBCvUwB,Love That About You
+https://api.spotify.com/v1/tracks/1czkGv8uzFAqZXAucbmLkv,1czkGv8uzFAqZXAucbmLkv,Fishin',0,spotify:track:1czkGv8uzFAqZXAucbmLkv,Laps Around The Sun
+https://api.spotify.com/v1/tracks/0HHEbTRgMrtnGQYuKulv1u,0HHEbTRgMrtnGQYuKulv1u,Neon Church,0,spotify:track:0HHEbTRgMrtnGQYuKulv1u,Thought About You
+https://api.spotify.com/v1/tracks/0lGK5vf8KwBuE8KLbiKl0N,0lGK5vf8KwBuE8KLbiKl0N,Hillbilly Deluxe,0,spotify:track:0lGK5vf8KwBuE8KLbiKl0N,The Collection
+https://api.spotify.com/v1/tracks/1PJD901fMmFd3NG5YMOpuS,1PJD901fMmFd3NG5YMOpuS,Austin,0,spotify:track:1PJD901fMmFd3NG5YMOpuS,Austin
+https://api.spotify.com/v1/tracks/2NfpmJ48OKziAuLc8xEShq,2NfpmJ48OKziAuLc8xEShq,Chaser,0,spotify:track:2NfpmJ48OKziAuLc8xEShq,Carter Winter
+https://api.spotify.com/v1/tracks/516tNdpLmwWM8RAq8wYayP,516tNdpLmwWM8RAq8wYayP,Dirt Road Dollars,0,spotify:track:516tNdpLmwWM8RAq8wYayP,"Dirtbagz, Vol. 1"
+https://api.spotify.com/v1/tracks/3N2AIfVOq6NiTcWHIP4Oco,3N2AIfVOq6NiTcWHIP4Oco,Drunk Me,1,spotify:track:3N2AIfVOq6NiTcWHIP4Oco,Mitchell Tenpenny - EP
+https://api.spotify.com/v1/tracks/2jul6zd5hZoCZvYZ4f4T2t,2jul6zd5hZoCZvYZ4f4T2t,Talk You Out Of It,1,spotify:track:2jul6zd5hZoCZvYZ4f4T2t,Florida Georgia Line
+https://api.spotify.com/v1/tracks/4uKnBwasJbpaXoPGrwqlc4,4uKnBwasJbpaXoPGrwqlc4,Dear God,0,spotify:track:4uKnBwasJbpaXoPGrwqlc4,Dear God
+https://api.spotify.com/v1/tracks/0tEygHq0JLIRwzxoWiHv9j,0tEygHq0JLIRwzxoWiHv9j,Queen Of My Double Wide Trailer,0,spotify:track:0tEygHq0JLIRwzxoWiHv9j,Haunted Heart
+https://api.spotify.com/v1/tracks/4wK7h7zTSF5VVv0ElRwQhy,4wK7h7zTSF5VVv0ElRwQhy,California,0,spotify:track:4wK7h7zTSF5VVv0ElRwQhy,Eric Ethridge
+https://api.spotify.com/v1/tracks/4dGJf1SER1T6ooX46vwzRB,4dGJf1SER1T6ooX46vwzRB,Chicken Fried,3,spotify:track:4dGJf1SER1T6ooX46vwzRB,The Foundation
+https://api.spotify.com/v1/tracks/2x0l9ZSlFXlDTByKu5NXdK,2x0l9ZSlFXlDTByKu5NXdK,The Ride,0,spotify:track:2x0l9ZSlFXlDTByKu5NXdK,The Essential David Allan Coe
+https://api.spotify.com/v1/tracks/391R7sGZ4SX7qPdpAsfiGW,391R7sGZ4SX7qPdpAsfiGW,Ballad Of A Southern Man,0,spotify:track:391R7sGZ4SX7qPdpAsfiGW,Firewater
+https://api.spotify.com/v1/tracks/6VB64hpnpRNqukYsIX76uo,6VB64hpnpRNqukYsIX76uo,For Her,0,spotify:track:6VB64hpnpRNqukYsIX76uo,Girl Problems
+https://api.spotify.com/v1/tracks/6OPyY2sXQBF13QRE3qx5o8,6OPyY2sXQBF13QRE3qx5o8,4 X Life,22,spotify:track:6OPyY2sXQBF13QRE3qx5o8,4 X Life
+https://api.spotify.com/v1/tracks/16YMQmioq72o5aZsxf12ZC,16YMQmioq72o5aZsxf12ZC,Dallas,23,spotify:track:16YMQmioq72o5aZsxf12ZC,Original Album Classics
+https://api.spotify.com/v1/tracks/7vgAiRzZrV7aCy4RdOnvbD,7vgAiRzZrV7aCy4RdOnvbD,Wrong for You,23,spotify:track:7vgAiRzZrV7aCy4RdOnvbD,Wrong for You
+https://api.spotify.com/v1/tracks/1p8F8cOT8n57sul4fSkWf2,1p8F8cOT8n57sul4fSkWf2,Girl In The Song,25,spotify:track:1p8F8cOT8n57sul4fSkWf2,Never Gets Old
+https://api.spotify.com/v1/tracks/6Jy1SWCElFwk4vdte3AoP7,6Jy1SWCElFwk4vdte3AoP7,A Little Bit Stronger,20,spotify:track:6Jy1SWCElFwk4vdte3AoP7,Stronger & Greatest Hits (Australian Tour Edition)
+https://api.spotify.com/v1/tracks/1ftAGHtW6qiWgpT5MupqmR,1ftAGHtW6qiWgpT5MupqmR,Slow Hand,24,spotify:track:1ftAGHtW6qiWgpT5MupqmR,"Conway's Latest Greatest Hits, Vol. 1"
+https://api.spotify.com/v1/tracks/5hKWxI3WgM6KofSgJreAFo,5hKWxI3WgM6KofSgJreAFo,Midnight In Montgomery,21,spotify:track:5hKWxI3WgM6KofSgJreAFo,Original Album Classics
+https://api.spotify.com/v1/tracks/12Vc0DlsB3IlAs6GwbcB3Q,12Vc0DlsB3IlAs6GwbcB3Q,Hoping,21,spotify:track:12Vc0DlsB3IlAs6GwbcB3Q,Hoping
+https://api.spotify.com/v1/tracks/0VdvvJ9l9ARpDbRpjrcITX,0VdvvJ9l9ARpDbRpjrcITX,My Front Porch Looking In,19,spotify:track:0VdvvJ9l9ARpDbRpjrcITX,Amazed - The Best Of
+https://api.spotify.com/v1/tracks/5f7xuOs1CLKczft1RO5bmK,5f7xuOs1CLKczft1RO5bmK,Here In the Real World,24,spotify:track:5f7xuOs1CLKczft1RO5bmK,Original Album Classics
+https://api.spotify.com/v1/tracks/4MkzApk3namWbVhJwyMUs7,4MkzApk3namWbVhJwyMUs7,While We're Young,17,spotify:track:4MkzApk3namWbVhJwyMUs7,While We're Young
+https://api.spotify.com/v1/tracks/5pvPRmTbfhhpGJweKDJE7G,5pvPRmTbfhhpGJweKDJE7G,Wacky Tobaccy,22,spotify:track:5pvPRmTbfhhpGJweKDJE7G,The Bus Songs
+https://api.spotify.com/v1/tracks/4JvimMcPnSqynW2kDoSDXR,4JvimMcPnSqynW2kDoSDXR,Mercury Blues,25,spotify:track:4JvimMcPnSqynW2kDoSDXR,Original Album Classics
+https://api.spotify.com/v1/tracks/5KSPTbvoKVN1kLGcubdtIr,5KSPTbvoKVN1kLGcubdtIr,Wanted,18,spotify:track:5KSPTbvoKVN1kLGcubdtIr,Original Album Classics
+https://api.spotify.com/v1/tracks/2Vg0TILurFDmLAAW9KvVnx,2Vg0TILurFDmLAAW9KvVnx,I Don't Even Know Your Name,21,spotify:track:2Vg0TILurFDmLAAW9KvVnx,Original Album Classics
+https://api.spotify.com/v1/tracks/2aslQ7Sf7MdDbRPbac0Cy4,2aslQ7Sf7MdDbRPbac0Cy4,When We’re 80,47,spotify:track:2aslQ7Sf7MdDbRPbac0Cy4,Life Changes (Deluxe Version)
+https://api.spotify.com/v1/tracks/52m2aSz4K783RyhWGareXS,52m2aSz4K783RyhWGareXS,Long Line of Losers,47,spotify:track:52m2aSz4K783RyhWGareXS,Bring It On
+https://api.spotify.com/v1/tracks/2sPK3NAhY4WP5Jdvrr90SR,2sPK3NAhY4WP5Jdvrr90SR,I’m All In,41,spotify:track:2sPK3NAhY4WP5Jdvrr90SR,Raise 'Em Up to Right Now
+https://api.spotify.com/v1/tracks/3UWV2BeNlQ9J3JDqW1zGFT,3UWV2BeNlQ9J3JDqW1zGFT,Stay,46,spotify:track:3UWV2BeNlQ9J3JDqW1zGFT,The Road
+https://api.spotify.com/v1/tracks/1Zlm5elepl7xOAPBUI3bj9,1Zlm5elepl7xOAPBUI3bj9,Legends,38,spotify:track:1Zlm5elepl7xOAPBUI3bj9,Unapologetically
+https://api.spotify.com/v1/tracks/2HGymMoOdB4ZYv0AAqYmgF,2HGymMoOdB4ZYv0AAqYmgF,Famous,50,spotify:track:2HGymMoOdB4ZYv0AAqYmgF,Famous
+https://api.spotify.com/v1/tracks/4sZY0JOIot0TapXBq0s5xg,4sZY0JOIot0TapXBq0s5xg,California,33,spotify:track:4sZY0JOIot0TapXBq0s5xg,Did It for the Party
+https://api.spotify.com/v1/tracks/0UB81wf2YWOg2f2w6cxX3k,0UB81wf2YWOg2f2w6cxX3k,Preachin' to the Choir,36,spotify:track:0UB81wf2YWOg2f2w6cxX3k,Bridges
+https://api.spotify.com/v1/tracks/3Hbm5luuxJheCKJheYAVbZ,3Hbm5luuxJheCKJheYAVbZ,Honky Tonk Man,48,spotify:track:3Hbm5luuxJheCKJheYAVbZ,"Guitars, Cadillacs, Etc., Etc."
+https://api.spotify.com/v1/tracks/06TjqkqvMqZJ0oWBlfNLa2,06TjqkqvMqZJ0oWBlfNLa2,You Don't Even Know,46,spotify:track:06TjqkqvMqZJ0oWBlfNLa2,You Don't Even Know
+https://api.spotify.com/v1/tracks/1zMlCzXYSXlNAEIZVpr5CZ,1zMlCzXYSXlNAEIZVpr5CZ,Breakup Sex,50,spotify:track:1zMlCzXYSXlNAEIZVpr5CZ,Hope It Starts Raining
+https://api.spotify.com/v1/tracks/4MsL8usISbBWiuBI6nfLwO,4MsL8usISbBWiuBI6nfLwO,It's Five O'Clock Somewhere,46,spotify:track:4MsL8usISbBWiuBI6nfLwO,The Very Best Of
+https://api.spotify.com/v1/tracks/2m6Wm0nBUJdDfCggvpWAnV,2m6Wm0nBUJdDfCggvpWAnV,If the World Had a Front Porch,49,spotify:track:2m6Wm0nBUJdDfCggvpWAnV,I See It Now
+https://api.spotify.com/v1/tracks/2xcsluhInjNjAqR3253SkJ,2xcsluhInjNjAqR3253SkJ,That's What's Working Right Now,41,spotify:track:2xcsluhInjNjAqR3253SkJ,That's What's Working Right Now
+https://api.spotify.com/v1/tracks/6sIWKuWesxq1dn7T5APFX2,6sIWKuWesxq1dn7T5APFX2,I Sure Can Smell the Rain,45,spotify:track:6sIWKuWesxq1dn7T5APFX2,Blackhawk
+https://api.spotify.com/v1/tracks/7vIwwIRqEyiDFmL1L0Cd5t,7vIwwIRqEyiDFmL1L0Cd5t,Over Did It,43,spotify:track:7vIwwIRqEyiDFmL1L0Cd5t,Adam Sanders
+https://api.spotify.com/v1/tracks/1vtlFENFwePxExgcz8STd8,1vtlFENFwePxExgcz8STd8,Hold You Back,47,spotify:track:1vtlFENFwePxExgcz8STd8,Ryan Hurd - EP
+https://api.spotify.com/v1/tracks/56PtcCDfdpMYt4LUULMEJx,56PtcCDfdpMYt4LUULMEJx,Break On Me,35,spotify:track:56PtcCDfdpMYt4LUULMEJx,Ripcord (Australian Tour Edition)
+https://api.spotify.com/v1/tracks/2MGKDu7orDRI1eADeiJAT5,2MGKDu7orDRI1eADeiJAT5,Slow Down,46,spotify:track:2MGKDu7orDRI1eADeiJAT5,Born Ready
+https://api.spotify.com/v1/tracks/2gvYqSUrl405FQRdsZUQLo,2gvYqSUrl405FQRdsZUQLo,That's When You Know,35,spotify:track:2gvYqSUrl405FQRdsZUQLo,Chris Buck Band
+https://api.spotify.com/v1/tracks/5PoxKc3OfdHr2uQEnIRRyw,5PoxKc3OfdHr2uQEnIRRyw,Doing It to Country Songs (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville,33,spotify:track:5PoxKc3OfdHr2uQEnIRRyw,Spotify Singles
+https://api.spotify.com/v1/tracks/3L3HRHCi6CmKmUrAJj1sa0,3L3HRHCi6CmKmUrAJj1sa0,WD-40,40,spotify:track:3L3HRHCi6CmKmUrAJj1sa0,WD-40
+https://api.spotify.com/v1/tracks/1dQBuZ7dtlB2PwTCMW4VJd,1dQBuZ7dtlB2PwTCMW4VJd,Hit You Where It Hurts,40,spotify:track:1dQBuZ7dtlB2PwTCMW4VJd,Hebert Island
+https://api.spotify.com/v1/tracks/2PU9BQnRNnarDJVaRF8Hg1,2PU9BQnRNnarDJVaRF8Hg1,What Kind Of Fool Do You Think I Am,49,spotify:track:2PU9BQnRNnarDJVaRF8Hg1,Love Without Mercy
+https://api.spotify.com/v1/tracks/79WaXLL2fKLxBE77Oh0Al6,79WaXLL2fKLxBE77Oh0Al6,Right Or Wrong,36,spotify:track:79WaXLL2fKLxBE77Oh0Al6,Right Or Wrong
+https://api.spotify.com/v1/tracks/2D8uSBoQzyRqlKvCXIJL2X,2D8uSBoQzyRqlKvCXIJL2X,Me and a Memory,36,spotify:track:2D8uSBoQzyRqlKvCXIJL2X,Palo Duro
+https://api.spotify.com/v1/tracks/10OWv7aQEANHp5D4eRKira,10OWv7aQEANHp5D4eRKira,Born To Boogie,47,spotify:track:10OWv7aQEANHp5D4eRKira,Born To Boogie
+https://api.spotify.com/v1/tracks/3wAvQDESfTvW50J5Gu4Zbs,3wAvQDESfTvW50J5Gu4Zbs,Folded Flag,49,spotify:track:3wAvQDESfTvW50J5Gu4Zbs,Folded Flag
+https://api.spotify.com/v1/tracks/7g6rfMPGnt8dFmnnRHRl1U,7g6rfMPGnt8dFmnnRHRl1U,Little Man,37,spotify:track:7g6rfMPGnt8dFmnnRHRl1U,High Mileage
+https://api.spotify.com/v1/tracks/2uKRocOusXn7WpHrpvKN7O,2uKRocOusXn7WpHrpvKN7O,Not Everything's About You,49,spotify:track:2uKRocOusXn7WpHrpvKN7O,Happy Endings
+https://api.spotify.com/v1/tracks/5oGqJnjSythpdNILDvhEQ3,5oGqJnjSythpdNILDvhEQ3,What If I Kissed You,31,spotify:track:5oGqJnjSythpdNILDvhEQ3,What If I Kissed You
+https://api.spotify.com/v1/tracks/5GOLGi2dpY0oYwVmxZXjL8,5GOLGi2dpY0oYwVmxZXjL8,Woulda Left Me Too,48,spotify:track:5GOLGi2dpY0oYwVmxZXjL8,Sake of the Summer
+https://api.spotify.com/v1/tracks/1Xa0gIAsmt1vRlo2fXPZEr,1Xa0gIAsmt1vRlo2fXPZEr,On My Way to You,33,spotify:track:1Xa0gIAsmt1vRlo2fXPZEr,On My Way to You
+https://api.spotify.com/v1/tracks/3GzKRcrUxAwwAYt47Of3N4,3GzKRcrUxAwwAYt47Of3N4,Memory Won't Let Me,46,spotify:track:3GzKRcrUxAwwAYt47Of3N4,Brett Young
+https://api.spotify.com/v1/tracks/6d8X5TiQ3RJ3s0z72Nxwze,6d8X5TiQ3RJ3s0z72Nxwze,Gentle Man,40,spotify:track:6d8X5TiQ3RJ3s0z72Nxwze,Gentle Man
+https://api.spotify.com/v1/tracks/6fndSocvpEUYd5OFDGNYzj,6fndSocvpEUYd5OFDGNYzj,Yeah Boy,35,spotify:track:6fndSocvpEUYd5OFDGNYzj,The First Time
+https://api.spotify.com/v1/tracks/2BOuhBOmohhW59fsKoZ4dG,2BOuhBOmohhW59fsKoZ4dG,Nothin' Like Us,36,spotify:track:2BOuhBOmohhW59fsKoZ4dG,Nothin' Like Us
+https://api.spotify.com/v1/tracks/1ZT2SegEiHQz8EeBwe3TH1,1ZT2SegEiHQz8EeBwe3TH1,I Love This Life,45,spotify:track:1ZT2SegEiHQz8EeBwe3TH1,The Fighters
+https://api.spotify.com/v1/tracks/5Fxizz8oqR40JA4kLh79Ot,5Fxizz8oqR40JA4kLh79Ot,Chevrolet DJ,41,spotify:track:5Fxizz8oqR40JA4kLh79Ot,Down Home Sessions III
+https://api.spotify.com/v1/tracks/3PURovRKyJaBmgzPfmMJ4O,3PURovRKyJaBmgzPfmMJ4O,I'm Not Alright,48,spotify:track:3PURovRKyJaBmgzPfmMJ4O,Palo Duro
+https://api.spotify.com/v1/tracks/0TdxyXEUkq08bRRGmAyqJv,0TdxyXEUkq08bRRGmAyqJv,Pop a Top,43,spotify:track:0TdxyXEUkq08bRRGmAyqJv,Under The Influence
+https://api.spotify.com/v1/tracks/40XHORpTeMwJ2hwpKhpRqW,40XHORpTeMwJ2hwpKhpRqW,Dibs,34,spotify:track:40XHORpTeMwJ2hwpKhpRqW,The First Time
+https://api.spotify.com/v1/tracks/5khIoFWb7ag7q52MYpn7QD,5khIoFWb7ag7q52MYpn7QD,Find out Who Your Friends Are,34,spotify:track:5khIoFWb7ag7q52MYpn7QD,For the Love
+https://api.spotify.com/v1/tracks/3u7BgwHVQSmx9dTCOQubvH,3u7BgwHVQSmx9dTCOQubvH,Castaway,43,spotify:track:3u7BgwHVQSmx9dTCOQubvH,Brett Eldredge
+https://api.spotify.com/v1/tracks/392xGZGwgHLVomBXgrE07u,392xGZGwgHLVomBXgrE07u,Change My Life,42,spotify:track:392xGZGwgHLVomBXgrE07u,Change My Life
+https://api.spotify.com/v1/tracks/68SAQUzxfEW1eKxZvhDDEm,68SAQUzxfEW1eKxZvhDDEm,Mountain Music,44,spotify:track:68SAQUzxfEW1eKxZvhDDEm,The Essential Alabama 3.0
+https://api.spotify.com/v1/tracks/647MV7NvGdOtq5qNcDdLBL,647MV7NvGdOtq5qNcDdLBL,Miss Me More,48,spotify:track:647MV7NvGdOtq5qNcDdLBL,Unapologetically
+https://api.spotify.com/v1/tracks/5aujdHHMn6WBzxFiCyqCJb,5aujdHHMn6WBzxFiCyqCJb,Swingin',43,spotify:track:5aujdHHMn6WBzxFiCyqCJb,Super Hits
+https://api.spotify.com/v1/tracks/1yAsD59INP2lOaZTuQect4,1yAsD59INP2lOaZTuQect4,Dang If We Didn't,50,spotify:track:1yAsD59INP2lOaZTuQect4,Legacy
+https://api.spotify.com/v1/tracks/1ZE0BKf8zRD6DLif1BG9x0,1ZE0BKf8zRD6DLif1BG9x0,Ten Rounds with Jose Cuervo - Recall Mix,47,spotify:track:1ZE0BKf8zRD6DLif1BG9x0,Ten Rounds
+https://api.spotify.com/v1/tracks/6y4yocrzA6NGnuZkc5bM4i,6y4yocrzA6NGnuZkc5bM4i,Shoe Shopping,45,spotify:track:6y4yocrzA6NGnuZkc5bM4i,Happy Endings
+https://api.spotify.com/v1/tracks/04v55ioXWNEJFc2xaAskuS,04v55ioXWNEJFc2xaAskuS,Why Can't She,41,spotify:track:04v55ioXWNEJFc2xaAskuS,Why Can't She
+https://api.spotify.com/v1/tracks/15EJEiqpaFgDISecfkyxH1,15EJEiqpaFgDISecfkyxH1,Don't Forget Where You Come From,48,spotify:track:15EJEiqpaFgDISecfkyxH1,Don't Forget Where You Come From
+https://api.spotify.com/v1/tracks/6UtB0ezZwMneQIfLJ1Yzc1,6UtB0ezZwMneQIfLJ1Yzc1,I've Been Meaning to Call,42,spotify:track:6UtB0ezZwMneQIfLJ1Yzc1,I've Been Meaning to Call
+https://api.spotify.com/v1/tracks/7FEY9w6basvhNfZA0jvpGB,7FEY9w6basvhNfZA0jvpGB,Yada Yada Yada,49,spotify:track:7FEY9w6basvhNfZA0jvpGB,Yada Yada Yada
+https://api.spotify.com/v1/tracks/5Eph6Vs0PftspPXZqlVN2y,5Eph6Vs0PftspPXZqlVN2y,She Thinks She Needs Me,50,spotify:track:5Eph6Vs0PftspPXZqlVN2y,This I Gotta See
+https://api.spotify.com/v1/tracks/3D7GNDrpWwtknt9mFKa0we,3D7GNDrpWwtknt9mFKa0we,Outlaw In Me,44,spotify:track:3D7GNDrpWwtknt9mFKa0we,The Devil Don't Sleep
+https://api.spotify.com/v1/tracks/7JJbiSK9OkQqfDaioahHw2,7JJbiSK9OkQqfDaioahHw2,Fast Girl,34,spotify:track:7JJbiSK9OkQqfDaioahHw2,Mabelle - EP
+https://api.spotify.com/v1/tracks/1qxINnTuff87Pj1lvKbGxy,1qxINnTuff87Pj1lvKbGxy,Ready Set Roll,42,spotify:track:1qxINnTuff87Pj1lvKbGxy,Ignite the Night
+https://api.spotify.com/v1/tracks/0NY5z0doWNFJTRy0tgWAU9,0NY5z0doWNFJTRy0tgWAU9,Hearts Don't Break That Way,29,spotify:track:0NY5z0doWNFJTRy0tgWAU9,Steel Town
+https://api.spotify.com/v1/tracks/2rQBc9gO6Bu1AyKIo5fNgI,2rQBc9gO6Bu1AyKIo5fNgI,Heatwave,44,spotify:track:2rQBc9gO6Bu1AyKIo5fNgI,Dig Your Roots
+https://api.spotify.com/v1/tracks/0q6FfCDdYn9VNucILsROWk,0q6FfCDdYn9VNucILsROWk,Act Like You Don't,43,spotify:track:0q6FfCDdYn9VNucILsROWk,Welcome to the Weekend
+https://api.spotify.com/v1/tracks/1AdlT7kyTurdLmuUkfhFoa,1AdlT7kyTurdLmuUkfhFoa,Baby This and Baby That,34,spotify:track:1AdlT7kyTurdLmuUkfhFoa,Any Night in Texas
+https://api.spotify.com/v1/tracks/6YKL9gCOH31W5fanjQTtqq,6YKL9gCOH31W5fanjQTtqq,Close,46,spotify:track:6YKL9gCOH31W5fanjQTtqq,Close
+https://api.spotify.com/v1/tracks/2EIN7py5tqzh0BTTMDBCe6,2EIN7py5tqzh0BTTMDBCe6,You Are,28,spotify:track:2EIN7py5tqzh0BTTMDBCe6,You Are
+https://api.spotify.com/v1/tracks/569dtdMw7TOS8E4qMCNRtP,569dtdMw7TOS8E4qMCNRtP,No Stopping You,40,spotify:track:569dtdMw7TOS8E4qMCNRtP,Brett Eldredge
+https://api.spotify.com/v1/tracks/1kN5Bo5DAn9neVrli2wKBt,1kN5Bo5DAn9neVrli2wKBt,Never Gets Old,42,spotify:track:1kN5Bo5DAn9neVrli2wKBt,Never Gets Old
+https://api.spotify.com/v1/tracks/0l7Q1R6vZAPocVR5BQ80nj,0l7Q1R6vZAPocVR5BQ80nj,One Summer,40,spotify:track:0l7Q1R6vZAPocVR5BQ80nj,One Summer
+https://api.spotify.com/v1/tracks/0tZwHsG8450JhVUUIfdw9S,0tZwHsG8450JhVUUIfdw9S,Heaven South,42,spotify:track:0tZwHsG8450JhVUUIfdw9S,Love and War
+https://api.spotify.com/v1/tracks/5522Ut7YYZSv2TjLMLIpEU,5522Ut7YYZSv2TjLMLIpEU,Peter Pan,44,spotify:track:5522Ut7YYZSv2TjLMLIpEU,The First Time
+https://api.spotify.com/v1/tracks/3qTOcH165UGRRH49LMHc8H,3qTOcH165UGRRH49LMHc8H,I Want to Know What Love Is,45,spotify:track:3qTOcH165UGRRH49LMHc8H,Cosmic Hallelujah
+https://api.spotify.com/v1/tracks/6Tp84YPjzrhTzLBNA2lpxt,6Tp84YPjzrhTzLBNA2lpxt,Drinkin' Buddies,39,spotify:track:6Tp84YPjzrhTzLBNA2lpxt,Come Back Road
+https://api.spotify.com/v1/tracks/5gIJUFDYsyNzRGBcS3lVcX,5gIJUFDYsyNzRGBcS3lVcX,Remember When,41,spotify:track:5gIJUFDYsyNzRGBcS3lVcX,The Essential Alan Jackson
+https://api.spotify.com/v1/tracks/6WkX90SEkuiknfyAKsd6LW,6WkX90SEkuiknfyAKsd6LW,Somebody Else's Heart,43,spotify:track:6WkX90SEkuiknfyAKsd6LW,Heart Break
+https://api.spotify.com/v1/tracks/3ClguHW7ndoVp2ARyXXi9M,3ClguHW7ndoVp2ARyXXi9M,More,47,spotify:track:3ClguHW7ndoVp2ARyXXi9M,More
+https://api.spotify.com/v1/tracks/3QWgfaCa9Clu2SkESPxGBt,3QWgfaCa9Clu2SkESPxGBt,Never Again,34,spotify:track:3QWgfaCa9Clu2SkESPxGBt,Fingerprints
+https://api.spotify.com/v1/tracks/0950zBhDfpTlPmANus8lIq,0950zBhDfpTlPmANus8lIq,Where I Go When I Drink,46,spotify:track:0950zBhDfpTlPmANus8lIq,Losing Sleep
+https://api.spotify.com/v1/tracks/3l3zmp7lXkui2tjJj12DbS,3l3zmp7lXkui2tjJj12DbS,Until My Voice Goes Out,48,spotify:track:3l3zmp7lXkui2tjJj12DbS,Until My Voice Goes Out
+https://api.spotify.com/v1/tracks/3uPLRT7eFWg4qs0TTtqKn7,3uPLRT7eFWg4qs0TTtqKn7,The Only One Who Gets Me,40,spotify:track:3uPLRT7eFWg4qs0TTtqKn7,The Driver
+https://api.spotify.com/v1/tracks/5Luq6Gx6Y6YXYdvPiLPOxf,5Luq6Gx6Y6YXYdvPiLPOxf,Crazy Over Me,49,spotify:track:5Luq6Gx6Y6YXYdvPiLPOxf,Dylan Scott (Deluxe Edition)
+https://api.spotify.com/v1/tracks/39DvivKXIbyqUzTqaku3fT,39DvivKXIbyqUzTqaku3fT,Don't Waste the Night,33,spotify:track:39DvivKXIbyqUzTqaku3fT,Don't Waste the Night
+https://api.spotify.com/v1/tracks/12AOwWanBDN4TQbJRbErqM,12AOwWanBDN4TQbJRbErqM,Wasted Time,42,spotify:track:12AOwWanBDN4TQbJRbErqM,Ripcord (Australian Tour Edition)
+https://api.spotify.com/v1/tracks/30jUFpRq1l7QPytEAoX1m8,30jUFpRq1l7QPytEAoX1m8,One More Red Light,35,spotify:track:30jUFpRq1l7QPytEAoX1m8,One More Red Light
+https://api.spotify.com/v1/tracks/4eiRksMFmG0S1C9nGYuNhk,4eiRksMFmG0S1C9nGYuNhk,Lost,44,spotify:track:4eiRksMFmG0S1C9nGYuNhk,Walker McGuire
+https://api.spotify.com/v1/tracks/599y8O5L7DicaGwm1KUdrX,599y8O5L7DicaGwm1KUdrX,She's My Kind Of Rain,49,spotify:track:599y8O5L7DicaGwm1KUdrX,Tim McGraw And The Dancehall Doctors
+https://api.spotify.com/v1/tracks/2IHWabwhSEdpB5XEhaz9zx,2IHWabwhSEdpB5XEhaz9zx,Dixie On My Mind,44,spotify:track:2IHWabwhSEdpB5XEhaz9zx,Rowdy
+https://api.spotify.com/v1/tracks/6aKXTRbEk1UhnqJkfDTLrP,6aKXTRbEk1UhnqJkfDTLrP,Born Ready,26,spotify:track:6aKXTRbEk1UhnqJkfDTLrP,Born Ready
+https://api.spotify.com/v1/tracks/5995mHLcqAJBX60f3iaCeq,5995mHLcqAJBX60f3iaCeq,Forty Hour Week (For a Livin'),33,spotify:track:5995mHLcqAJBX60f3iaCeq,40 Hour Week
+https://api.spotify.com/v1/tracks/3sAmnQGObkWOjQqxt5VLeW,3sAmnQGObkWOjQqxt5VLeW,You're Drunk,29,spotify:track:3sAmnQGObkWOjQqxt5VLeW,You're Drunk
+https://api.spotify.com/v1/tracks/6P6qT8H5f61xJS7uSikLMb,6P6qT8H5f61xJS7uSikLMb,Blonde,47,spotify:track:6P6qT8H5f61xJS7uSikLMb,SLOWHEART
+https://api.spotify.com/v1/tracks/1LDeuD3jbSpHucsd0nOt6t,1LDeuD3jbSpHucsd0nOt6t,The Driver,47,spotify:track:1LDeuD3jbSpHucsd0nOt6t,The Driver
+https://api.spotify.com/v1/tracks/1QsXOnBUiREtGixFfdLTOf,1QsXOnBUiREtGixFfdLTOf,Back To Us,50,spotify:track:1QsXOnBUiREtGixFfdLTOf,Back To Us
+https://api.spotify.com/v1/tracks/2EXCLMhZF0XqmdCsSMYwt3,2EXCLMhZF0XqmdCsSMYwt3,If My Name Was Whiskey,50,spotify:track:2EXCLMhZF0XqmdCsSMYwt3,Every Little Thing
+https://api.spotify.com/v1/tracks/7gLaJstVWOAsftGQo5Xrzi,7gLaJstVWOAsftGQo5Xrzi,Just Wanna Love You,36,spotify:track:7gLaJstVWOAsftGQo5Xrzi,Just Wanna Love You
+https://api.spotify.com/v1/tracks/0CVHJRneWfL2y3EE2mMYKA,0CVHJRneWfL2y3EE2mMYKA,Wonder Woman,29,spotify:track:0CVHJRneWfL2y3EE2mMYKA,Wonder Woman
+https://api.spotify.com/v1/tracks/3QYapnFXMqThx3F2Xbj2nW,3QYapnFXMqThx3F2Xbj2nW,Say (feat. Dan + Shay),49,spotify:track:3QYapnFXMqThx3F2Xbj2nW,WildHorse
+https://api.spotify.com/v1/tracks/1g9rDqYo4h8JT6r4xDonbu,1g9rDqYo4h8JT6r4xDonbu,Shoot Out the Lights,28,spotify:track:1g9rDqYo4h8JT6r4xDonbu,Gold
+https://api.spotify.com/v1/tracks/01CNPn5mI7UZCtaOvg0Gmu,01CNPn5mI7UZCtaOvg0Gmu,Give Up Your Heart,36,spotify:track:01CNPn5mI7UZCtaOvg0Gmu,Levon - EP
+https://api.spotify.com/v1/tracks/2cxU72H3CkiHJKiJhOj1Rm,2cxU72H3CkiHJKiJhOj1Rm,Home With Her,41,spotify:track:2cxU72H3CkiHJKiJhOj1Rm,Home With Her
+https://api.spotify.com/v1/tracks/1pwHF3tfzNaKCFBqpoxr2V,1pwHF3tfzNaKCFBqpoxr2V,Still Believe in Crazy Love,45,spotify:track:1pwHF3tfzNaKCFBqpoxr2V,Still Believe in Crazy Love
+https://api.spotify.com/v1/tracks/081t95JRuDUrQYSS3h8iKk,081t95JRuDUrQYSS3h8iKk,Sober Saturday Night (feat. Vince Gill),57,spotify:track:081t95JRuDUrQYSS3h8iKk,I'm Comin' Over
+https://api.spotify.com/v1/tracks/0tuEEuDijBNJxcLSIrMNsU,0tuEEuDijBNJxcLSIrMNsU,Sweet Southern Comfort,54,spotify:track:0tuEEuDijBNJxcLSIrMNsU,Buddy Jewell
+https://api.spotify.com/v1/tracks/5tMViyamkwQmHjMm1OajDi,5tMViyamkwQmHjMm1OajDi,How Does It Sound,59,spotify:track:5tMViyamkwQmHjMm1OajDi,How Does It Sound
+https://api.spotify.com/v1/tracks/1B17jo7XD3lJ9AtrdE9kUd,1B17jo7XD3lJ9AtrdE9kUd,She Don't Love You,58,spotify:track:1B17jo7XD3lJ9AtrdE9kUd,Eric Paslay
+https://api.spotify.com/v1/tracks/4x7Di9FZJXJoxHjLxjImmp,4x7Di9FZJXJoxHjLxjImmp,Hell Of A Night,60,spotify:track:4x7Di9FZJXJoxHjLxjImmp,Where It's At
+https://api.spotify.com/v1/tracks/1ewLdzcpSQkU9wpFdqFauw,1ewLdzcpSQkU9wpFdqFauw,Fly,56,spotify:track:1ewLdzcpSQkU9wpFdqFauw,Start Here
+https://api.spotify.com/v1/tracks/4OrGwddgpFMyDmelYJ5NxB,4OrGwddgpFMyDmelYJ5NxB,Anymore,58,spotify:track:4OrGwddgpFMyDmelYJ5NxB,It's All About to Change
+https://api.spotify.com/v1/tracks/6MAFveif1NyVgcTZ4T8CXQ,6MAFveif1NyVgcTZ4T8CXQ,I Let Her Lie,53,spotify:track:6MAFveif1NyVgcTZ4T8CXQ,Daryle Singletary
+https://api.spotify.com/v1/tracks/5H4YGepZNnPhnOHA9vZSEP,5H4YGepZNnPhnOHA9vZSEP,Whole Lot in Love,55,spotify:track:5H4YGepZNnPhnOHA9vZSEP,Austin Burke
+https://api.spotify.com/v1/tracks/1IO13V09b01gLSbmZJZ9dM,1IO13V09b01gLSbmZJZ9dM,Today,53,spotify:track:1IO13V09b01gLSbmZJZ9dM,Love and War
+https://api.spotify.com/v1/tracks/2rtaCqqM8hotwXKThsbKWb,2rtaCqqM8hotwXKThsbKWb,Tried To Tell Ya,52,spotify:track:2rtaCqqM8hotwXKThsbKWb,The Devil Don't Sleep
+https://api.spotify.com/v1/tracks/5XQv5uep3VmhEuDWeFwRep,5XQv5uep3VmhEuDWeFwRep,Kinda Don't Care,58,spotify:track:5XQv5uep3VmhEuDWeFwRep,Kinda Don't Care
+https://api.spotify.com/v1/tracks/4hxPwjXNymrxLJD4YaeH1b,4hxPwjXNymrxLJD4YaeH1b,Getting Over You,51,spotify:track:4hxPwjXNymrxLJD4YaeH1b,Getting Over You
+https://api.spotify.com/v1/tracks/72iAaOAsrBYa4U0VV7cHFd,72iAaOAsrBYa4U0VV7cHFd,Sunday Morning,51,spotify:track:72iAaOAsrBYa4U0VV7cHFd,27861
+https://api.spotify.com/v1/tracks/6H46hnlzoCKsbv2Ase75kX,6H46hnlzoCKsbv2Ase75kX,A Good Run of Bad Luck,54,spotify:track:6H46hnlzoCKsbv2Ase75kX,No Time To Kill
+https://api.spotify.com/v1/tracks/0VeI4Zyirc6yuJ4P7fudjE,0VeI4Zyirc6yuJ4P7fudjE,Where I'm From,52,spotify:track:0VeI4Zyirc6yuJ4P7fudjE,Growing Up Is Getting Old
+https://api.spotify.com/v1/tracks/0wfr8FjpLXIO1YjqEyVCg5,0wfr8FjpLXIO1YjqEyVCg5,You Won't Ever Be Lonely,53,spotify:track:0wfr8FjpLXIO1YjqEyVCg5,You Won' t Ever Be Lonely
+https://api.spotify.com/v1/tracks/7EeTwuxEO4JXNbQP7nhrDB,7EeTwuxEO4JXNbQP7nhrDB,Trashy Women - Remastered Version,60,spotify:track:7EeTwuxEO4JXNbQP7nhrDB,Confederate Railroad
+https://api.spotify.com/v1/tracks/6trlSs4T9N2XUKojUkp4nF,6trlSs4T9N2XUKojUkp4nF,Movin' On,52,spotify:track:6trlSs4T9N2XUKojUkp4nF,Movin' On
+https://api.spotify.com/v1/tracks/0UvxyH7s9gsp8dVL53gQg1,0UvxyH7s9gsp8dVL53gQg1,Nothin' But The Taillights,53,spotify:track:0UvxyH7s9gsp8dVL53gQg1,Nothin' But The Taillights
+https://api.spotify.com/v1/tracks/5J9Pv419YAs6C45qmrXmxK,5J9Pv419YAs6C45qmrXmxK,I Should Go to Church Sometime,51,spotify:track:5J9Pv419YAs6C45qmrXmxK,I Should Go to Church Sometime
+https://api.spotify.com/v1/tracks/4D4xJ4LyDXBWIf9thFSMAJ,4D4xJ4LyDXBWIf9thFSMAJ,Yours If You Want It,60,spotify:track:4D4xJ4LyDXBWIf9thFSMAJ,Back To Us
+https://api.spotify.com/v1/tracks/1OnXz5v4hVdrNLJ9N4MqzL,1OnXz5v4hVdrNLJ9N4MqzL,Bring On The Rain,58,spotify:track:1OnXz5v4hVdrNLJ9N4MqzL,Burn
+https://api.spotify.com/v1/tracks/1A8s182NfOT6dOXjPsWfTn,1A8s182NfOT6dOXjPsWfTn,Thunder in the Rain,56,spotify:track:1A8s182NfOT6dOXjPsWfTn,Kane Brown
+https://api.spotify.com/v1/tracks/3XxtBBMexPb3RRVHPzTgNR,3XxtBBMexPb3RRVHPzTgNR,Damn Drunk,54,spotify:track:3XxtBBMexPb3RRVHPzTgNR,Tattooed Heart
+https://api.spotify.com/v1/tracks/2nWKk3ACZN7exdamcHvGMU,2nWKk3ACZN7exdamcHvGMU,Don't Laugh At Me,56,spotify:track:2nWKk3ACZN7exdamcHvGMU,Wish You Were Here
+https://api.spotify.com/v1/tracks/0VWPd2zYt1430jL6XtUjep,0VWPd2zYt1430jL6XtUjep,Bop,59,spotify:track:0VWPd2zYt1430jL6XtUjep,Won't Be Blue Anymore
+https://api.spotify.com/v1/tracks/7nDLdzyh2IDjL77JBmZTiQ,7nDLdzyh2IDjL77JBmZTiQ,Make A Little,57,spotify:track:7nDLdzyh2IDjL77JBmZTiQ,On The Rocks
+https://api.spotify.com/v1/tracks/6F6NSi78ckFinGlLlB7aYp,6F6NSi78ckFinGlLlB7aYp,Lifers,54,spotify:track:6F6NSi78ckFinGlLlB7aYp,Lifers
+https://api.spotify.com/v1/tracks/5NhZkLMccDVhxocmVHDu4G,5NhZkLMccDVhxocmVHDu4G,Livin' Our Love Song,55,spotify:track:5NhZkLMccDVhxocmVHDu4G,Waitin' In The Country
+https://api.spotify.com/v1/tracks/3HtCJiLV8GH87AViMtUKhO,3HtCJiLV8GH87AViMtUKhO,"Guitars, Cadillacs",54,spotify:track:3HtCJiLV8GH87AViMtUKhO,"Guitars, Cadillacs, Etc., Etc."
+https://api.spotify.com/v1/tracks/4VVvKg5swvHf34JI7uwL2L,4VVvKg5swvHf34JI7uwL2L,90's Country,60,spotify:track:4VVvKg5swvHf34JI7uwL2L,90's Country
+https://api.spotify.com/v1/tracks/4s6Q9zPmiYcpo5MR7uoVnt,4s6Q9zPmiYcpo5MR7uoVnt,Goin' Through The Big D,59,spotify:track:4s6Q9zPmiYcpo5MR7uoVnt,Greatest Hits: Mark Chesnutt
+https://api.spotify.com/v1/tracks/5eFfsbjSouG8qOpg9ZqDl6,5eFfsbjSouG8qOpg9ZqDl6,Downtown's Dead,55,spotify:track:5eFfsbjSouG8qOpg9ZqDl6,Downtown's Dead
+https://api.spotify.com/v1/tracks/3T6zcLTbdh4E3cQIpOtBps,3T6zcLTbdh4E3cQIpOtBps,Get to You,57,spotify:track:3T6zcLTbdh4E3cQIpOtBps,Amos
+https://api.spotify.com/v1/tracks/421ebjYqaIXEG2KloTbXlH,421ebjYqaIXEG2KloTbXlH,Speak to a Girl,53,spotify:track:421ebjYqaIXEG2KloTbXlH,The Rest of Our Life
+https://api.spotify.com/v1/tracks/2rjeRpzY5eKn2zZMwAfuod,2rjeRpzY5eKn2zZMwAfuod,A Thousand Miles from Nowhere,60,spotify:track:2rjeRpzY5eKn2zZMwAfuod,This Time
+https://api.spotify.com/v1/tracks/0NKBHAJLQBCekWM6pf7wjv,0NKBHAJLQBCekWM6pf7wjv,Bro Code,54,spotify:track:0NKBHAJLQBCekWM6pf7wjv,The Devil Don't Sleep
+https://api.spotify.com/v1/tracks/25gXwa9Wpa3CRu41GQ6iZc,25gXwa9Wpa3CRu41GQ6iZc,Hell If I Know,52,spotify:track:25gXwa9Wpa3CRu41GQ6iZc,Hell If I Know
+https://api.spotify.com/v1/tracks/57KKY8gqUqqS3YXYotkxS5,57KKY8gqUqqS3YXYotkxS5,Keeping Score (feat. Kelly Clarkson),60,spotify:track:57KKY8gqUqqS3YXYotkxS5,Dan + Shay
+https://api.spotify.com/v1/tracks/5Ga2YBqKtetWgWL2pl3g3f,5Ga2YBqKtetWgWL2pl3g3f,You're Gonna Miss This,56,spotify:track:5Ga2YBqKtetWgWL2pl3g3f,Definitive Greatest Hits
+https://api.spotify.com/v1/tracks/0U4R6UqrJo43TmImPku9H8,0U4R6UqrJo43TmImPku9H8,Heartland - Pure Country/Soundtrack Version,58,spotify:track:0U4R6UqrJo43TmImPku9H8,Pure Country
+https://api.spotify.com/v1/tracks/4UIOPiM5kNcJFUoRtdDRZa,4UIOPiM5kNcJFUoRtdDRZa,She Wouldn't Be Gone,54,spotify:track:4UIOPiM5kNcJFUoRtdDRZa,Startin' Fires
+https://api.spotify.com/v1/tracks/1xsGrsVJwG9zel8pefzVeo,1xsGrsVJwG9zel8pefzVeo,Break Down Here,58,spotify:track:1xsGrsVJwG9zel8pefzVeo,Julie Roberts
+https://api.spotify.com/v1/tracks/71lXNAROGX1zo6tX0MSnCS,71lXNAROGX1zo6tX0MSnCS,Gone,57,spotify:track:71lXNAROGX1zo6tX0MSnCS,You Do Your Thing
+https://api.spotify.com/v1/tracks/1fslCOmxtyPvE55p3KVTWY,1fslCOmxtyPvE55p3KVTWY,Campfire Cologne,60,spotify:track:1fslCOmxtyPvE55p3KVTWY,Jones In Ya Speaker
+https://api.spotify.com/v1/tracks/2flWhcGYxQHhb1EeeU2dOL,2flWhcGYxQHhb1EeeU2dOL,Bar at the End of the World,55,spotify:track:2flWhcGYxQHhb1EeeU2dOL,Cosmic Hallelujah
+https://api.spotify.com/v1/tracks/3DeLvrawPtl8wSupXgTlSh,3DeLvrawPtl8wSupXgTlSh,Unlove You,55,spotify:track:3DeLvrawPtl8wSupXgTlSh,Playing With Fire
+https://api.spotify.com/v1/tracks/2Ut5iHpzUHd0V37bpJqUlU,2Ut5iHpzUHd0V37bpJqUlU,Cadillac Ranch,56,spotify:track:2Ut5iHpzUHd0V37bpJqUlU,Whatcha Gonna Do With A Cowboy
+https://api.spotify.com/v1/tracks/1jvUrVUMm1U2XfXX534fRP,1jvUrVUMm1U2XfXX534fRP,Big Green Tractor,55,spotify:track:1jvUrVUMm1U2XfXX534fRP,Wide Open
+https://api.spotify.com/v1/tracks/30ycZOQj59qlIGI0MvLtDm,30ycZOQj59qlIGI0MvLtDm,She's Got a Way,53,spotify:track:30ycZOQj59qlIGI0MvLtDm,Losing Sleep
+https://api.spotify.com/v1/tracks/338arfXmD9XaESFjfcQLsg,338arfXmD9XaESFjfcQLsg,One Wing In The Fire,57,spotify:track:338arfXmD9XaESFjfcQLsg,Country Is My Rock
+https://api.spotify.com/v1/tracks/74uXfGRDayyx7UIV1irrhK,74uXfGRDayyx7UIV1irrhK,Wrong Turns,52,spotify:track:74uXfGRDayyx7UIV1irrhK,Meat and Candy
+https://api.spotify.com/v1/tracks/7tSZJ9iI3634Sqtd6Uvl49,7tSZJ9iI3634Sqtd6Uvl49,Are the Good Times Really Over (I Wish a Buck Was Still Silver),59,spotify:track:7tSZJ9iI3634Sqtd6Uvl49,The Essential Merle Haggard: The Epic Years
+https://api.spotify.com/v1/tracks/1dFLowBW25EaL2OC7eKEa2,1dFLowBW25EaL2OC7eKEa2,You Look Good,60,spotify:track:1dFLowBW25EaL2OC7eKEa2,Heart Break
+https://api.spotify.com/v1/tracks/6APx8Wqrsplu8sThFqutwn,6APx8Wqrsplu8sThFqutwn,I Could Kick Your Ass,54,spotify:track:6APx8Wqrsplu8sThFqutwn,Justin Moore
+https://api.spotify.com/v1/tracks/530TAWLytdeGGAhg7y0JB5,530TAWLytdeGGAhg7y0JB5,Make Him Wait,54,spotify:track:530TAWLytdeGGAhg7y0JB5,Make Him Wait
+https://api.spotify.com/v1/tracks/5o9LteJdhkA3ndUDz4JVfV,5o9LteJdhkA3ndUDz4JVfV,Make You Mine,59,spotify:track:5o9LteJdhkA3ndUDz4JVfV,Dear Life
+https://api.spotify.com/v1/tracks/6OI4kx6HcKUAgZKGr9IlXg,6OI4kx6HcKUAgZKGr9IlXg,Leave Me Alone,58,spotify:track:6OI4kx6HcKUAgZKGr9IlXg,Leave Me Alone
+https://api.spotify.com/v1/tracks/3GgpNSCZrgp8O4al5gwdRu,3GgpNSCZrgp8O4al5gwdRu,"One Boy, One Girl",52,spotify:track:3GgpNSCZrgp8O4al5gwdRu,I Think About You
+https://api.spotify.com/v1/tracks/6l0j6PTbFsGqZWHv0CU53f,6l0j6PTbFsGqZWHv0CU53f,Redneck Side of Me,57,spotify:track:6l0j6PTbFsGqZWHv0CU53f,The Dollar
+https://api.spotify.com/v1/tracks/1XIYYgAkVxULMbhr2zNjKS,1XIYYgAkVxULMbhr2zNjKS,20 in a Chevy,53,spotify:track:1XIYYgAkVxULMbhr2zNjKS,All of It
+https://api.spotify.com/v1/tracks/7dysCAfzEwSY94rfkEYTeE,7dysCAfzEwSY94rfkEYTeE,Prob'ly At A Bar,57,spotify:track:7dysCAfzEwSY94rfkEYTeE,Prob'ly At A Bar
+https://api.spotify.com/v1/tracks/2ZekuYUoEIBrUwHOY0gcgB,2ZekuYUoEIBrUwHOY0gcgB,How I'll Always Be,55,spotify:track:2ZekuYUoEIBrUwHOY0gcgB,Damn Country Music
+https://api.spotify.com/v1/tracks/6naxcNZ9gAfWw0IjYAATyp,6naxcNZ9gAfWw0IjYAATyp,I’m Your Only Flaw,54,spotify:track:6naxcNZ9gAfWw0IjYAATyp,Until My Voice Goes Out
+https://api.spotify.com/v1/tracks/0egmXjMeF4XP8HCRP5si1U,0egmXjMeF4XP8HCRP5si1U,(What This World Needs Is) A Few More Rednecks,58,spotify:track:0egmXjMeF4XP8HCRP5si1U,Simple Man
+https://api.spotify.com/v1/tracks/1YmT3bHeND3IQQ1WLH03jQ,1YmT3bHeND3IQQ1WLH03jQ,Holdin' Her,51,spotify:track:1YmT3bHeND3IQQ1WLH03jQ,Buy Me a Boat
+https://api.spotify.com/v1/tracks/3YZ5TNGA10oTLaADq4zuNV,3YZ5TNGA10oTLaADq4zuNV,Heart Break,52,spotify:track:3YZ5TNGA10oTLaADq4zuNV,Heart Break
+https://api.spotify.com/v1/tracks/22HHKW1Z3NhxUFV0tOV6Iv,22HHKW1Z3NhxUFV0tOV6Iv,Wicked Twisted Road,60,spotify:track:22HHKW1Z3NhxUFV0tOV6Iv,Wicked Twisted Road
+https://api.spotify.com/v1/tracks/3E4zA2CVysuiMWurr4W9zE,3E4zA2CVysuiMWurr4W9zE,Po-Dunk,52,spotify:track:3E4zA2CVysuiMWurr4W9zE,Sweet Southern Sugar
+https://api.spotify.com/v1/tracks/6ZOPiKQeibCn7fP8dncucL,6ZOPiKQeibCn7fP8dncucL,Blue Ain't Your Color,52,spotify:track:6ZOPiKQeibCn7fP8dncucL,Ripcord (Australian Tour Edition)
+https://api.spotify.com/v1/tracks/6UBvhlms1M16oUYZkEfqpy,6UBvhlms1M16oUYZkEfqpy,Whatcha Gonna Do With A Cowboy,53,spotify:track:6UBvhlms1M16oUYZkEfqpy,Whatcha Gonna Do With A Cowboy
+https://api.spotify.com/v1/tracks/4OCFCX4RSZl8esUMtt3muO,4OCFCX4RSZl8esUMtt3muO,Six Days On The Road,59,spotify:track:4OCFCX4RSZl8esUMtt3muO,Six Days On The Road
+https://api.spotify.com/v1/tracks/5Hd0J6dWz0jqgRDJoRpOdc,5Hd0J6dWz0jqgRDJoRpOdc,Fall,60,spotify:track:5Hd0J6dWz0jqgRDJoRpOdc,Fall
+https://api.spotify.com/v1/tracks/0YeZCdHQDDV8DEA9oXwi6K,0YeZCdHQDDV8DEA9oXwi6K,The Old Days (feat. Justin Adams),60,spotify:track:0YeZCdHQDDV8DEA9oXwi6K,Bad Mutha Fucka
+https://api.spotify.com/v1/tracks/446Jufq5oOCwOSXbkqq5yD,446Jufq5oOCwOSXbkqq5yD,Bring It On Over,55,spotify:track:446Jufq5oOCwOSXbkqq5yD,Bring It On Over
+https://api.spotify.com/v1/tracks/6NBaOUmCVpNAaqBDFiJkCn,6NBaOUmCVpNAaqBDFiJkCn,When I Said I Do (with Lisa Hartman Black),56,spotify:track:6NBaOUmCVpNAaqBDFiJkCn,Greatest Hits II
+https://api.spotify.com/v1/tracks/1LZNdHSaGjV2S9q8BrZwnh,1LZNdHSaGjV2S9q8BrZwnh,If the Boot Fits,56,spotify:track:1LZNdHSaGjV2S9q8BrZwnh,Remington
+https://api.spotify.com/v1/tracks/6yFD0TSZvxydqGxLNDjZUO,6yFD0TSZvxydqGxLNDjZUO,Come A Little Closer,59,spotify:track:6yFD0TSZvxydqGxLNDjZUO,Modern Day Drifter
+https://api.spotify.com/v1/tracks/3WWVDPjihd1VITBLF10nha,3WWVDPjihd1VITBLF10nha,Forever Country,60,spotify:track:3WWVDPjihd1VITBLF10nha,Forever Country
+https://api.spotify.com/v1/tracks/2N2EoS0dVmkNT0tfI0OYUA,2N2EoS0dVmkNT0tfI0OYUA,This Night Back,52,spotify:track:2N2EoS0dVmkNT0tfI0OYUA,This Night Back
+https://api.spotify.com/v1/tracks/0c36gHE4gFzaJL6ItRjHRd,0c36gHE4gFzaJL6ItRjHRd,God Made A Woman,53,spotify:track:0c36gHE4gFzaJL6ItRjHRd,This Ride
+https://api.spotify.com/v1/tracks/2KZXnN63ae6G6Cai2NhPkG,2KZXnN63ae6G6Cai2NhPkG,The Shake,58,spotify:track:2KZXnN63ae6G6Cai2NhPkG,Be Good At It
+https://api.spotify.com/v1/tracks/7LvK43IERbcLsuabmyKQgi,7LvK43IERbcLsuabmyKQgi,Beautiful Mess,57,spotify:track:7LvK43IERbcLsuabmyKQgi,Greatest Hits II
+https://api.spotify.com/v1/tracks/3dSUY34vmIYWJn0M6oZ3BD,3dSUY34vmIYWJn0M6oZ3BD,Pickup Man,54,spotify:track:3dSUY34vmIYWJn0M6oZ3BD,The Essential Joe Diffie
+https://api.spotify.com/v1/tracks/7v3BvPRQS4DcsDzYU0BiVd,7v3BvPRQS4DcsDzYU0BiVd,Best of Intentions,54,spotify:track:7v3BvPRQS4DcsDzYU0BiVd,Down The Road I Go
+https://api.spotify.com/v1/tracks/4fT0lwTnwXN5Qg5vSPyq0u,4fT0lwTnwXN5Qg5vSPyq0u,Chills,59,spotify:track:4fT0lwTnwXN5Qg5vSPyq0u,Game On
+https://api.spotify.com/v1/tracks/0ya80Qhw7hgeJp2L6zvxcj,0ya80Qhw7hgeJp2L6zvxcj,Shoot Me Straight - Radio Edit,56,spotify:track:0ya80Qhw7hgeJp2L6zvxcj,Shoot Me Straight (Radio Edit)
+https://api.spotify.com/v1/tracks/2FNYp8WnWlqkI4J0Zgea7a,2FNYp8WnWlqkI4J0Zgea7a,Guys Like Me,60,spotify:track:2FNYp8WnWlqkI4J0Zgea7a,Sinners Like Me
+https://api.spotify.com/v1/tracks/4pWb8UZ6IPVJA3CPjCNgzq,4pWb8UZ6IPVJA3CPjCNgzq,Coming Home,55,spotify:track:4pWb8UZ6IPVJA3CPjCNgzq,Graffiti U
+https://api.spotify.com/v1/tracks/7qcRDEpmDWS0bLHaZRYE8c,7qcRDEpmDWS0bLHaZRYE8c,A Little Dive Bar in Dahlonega,60,spotify:track:7qcRDEpmDWS0bLHaZRYE8c,Girl Going Nowhere
+https://api.spotify.com/v1/tracks/1tx3VJH2ThfGR0uYvcmkaK,1tx3VJH2ThfGR0uYvcmkaK,"Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",52,spotify:track:1tx3VJH2ThfGR0uYvcmkaK,Spotify Singles
+https://api.spotify.com/v1/tracks/3AsNVBJ7LHsltdu9490ZiS,3AsNVBJ7LHsltdu9490ZiS,A Girl Like You,60,spotify:track:3AsNVBJ7LHsltdu9490ZiS,A Girl Like You
+https://api.spotify.com/v1/tracks/1kmpcpEK0f56M5dkqNajRk,1kmpcpEK0f56M5dkqNajRk,Goodbye Summer,53,spotify:track:1kmpcpEK0f56M5dkqNajRk,Goodbye Summer
+https://api.spotify.com/v1/tracks/1kTugNMVMbaQep1srMua2q,1kTugNMVMbaQep1srMua2q,Bad At Love - Recorded at Sound Stage Studios Nashville,52,spotify:track:1kTugNMVMbaQep1srMua2q,Spotify Singles
+https://api.spotify.com/v1/tracks/4h5uOWibuxo0qrtejla7Pb,4h5uOWibuxo0qrtejla7Pb,Life's About To Get Good,51,spotify:track:4h5uOWibuxo0qrtejla7Pb,Now (Deluxe)
+https://api.spotify.com/v1/tracks/262r1LfhrukxXCMymvPaTA,262r1LfhrukxXCMymvPaTA,Country State Of Mind,55,spotify:track:262r1LfhrukxXCMymvPaTA,Montana Café
+https://api.spotify.com/v1/tracks/2vjNx7jYF9q2w3sKiJ37lg,2vjNx7jYF9q2w3sKiJ37lg,Think & Drive,53,spotify:track:2vjNx7jYF9q2w3sKiJ37lg,Mabelle - EP
+https://api.spotify.com/v1/tracks/4u6eRWSXvzVZtRP6m48Psx,4u6eRWSXvzVZtRP6m48Psx,Young Forever,51,spotify:track:4u6eRWSXvzVZtRP6m48Psx,Young Forever
+https://api.spotify.com/v1/tracks/4wDxa0lo9PfPdnDifyCE6h,4wDxa0lo9PfPdnDifyCE6h,That Ain’t Country,56,spotify:track:4wDxa0lo9PfPdnDifyCE6h,Sinner
+https://api.spotify.com/v1/tracks/4XbxeoBeQnwpsyJyZEMoWc,4XbxeoBeQnwpsyJyZEMoWc,Take This Job and Shove It,61,spotify:track:4XbxeoBeQnwpsyJyZEMoWc,Super Hits
+https://api.spotify.com/v1/tracks/6EUDUDQP5ynE3g5SWCA8sc,6EUDUDQP5ynE3g5SWCA8sc,Sway,64,spotify:track:6EUDUDQP5ynE3g5SWCA8sc,I Don't Believe We've Met
+https://api.spotify.com/v1/tracks/0s6OWiWGuiCcm1Muzch5A8,0s6OWiWGuiCcm1Muzch5A8,Fix a Drink,65,spotify:track:0s6OWiWGuiCcm1Muzch5A8,EVERYBODY
+https://api.spotify.com/v1/tracks/2WQAknZHrJAEQOFXe0F44P,2WQAknZHrJAEQOFXe0F44P,Austin,67,spotify:track:2WQAknZHrJAEQOFXe0F44P,Blake Shelton
+https://api.spotify.com/v1/tracks/3IvcWWehbBcBR4YZxlGM9R,3IvcWWehbBcBR4YZxlGM9R,"I Like It, I Love It",71,spotify:track:3IvcWWehbBcBR4YZxlGM9R,All I Want
+https://api.spotify.com/v1/tracks/6vgN6KGstss0GnBbKlMNK9,6vgN6KGstss0GnBbKlMNK9,The Way You Love Me,62,spotify:track:6vgN6KGstss0GnBbKlMNK9,Breathe
+https://api.spotify.com/v1/tracks/02eD9ymfJOJOhM97HYp5R9,02eD9ymfJOJOhM97HYp5R9,The House That Built Me,70,spotify:track:02eD9ymfJOJOhM97HYp5R9,Revolution
+https://api.spotify.com/v1/tracks/1G60o2g78glgxC0No8SsvQ,1G60o2g78glgxC0No8SsvQ,When You Say Nothing at All,63,spotify:track:1G60o2g78glgxC0No8SsvQ,Don't Close Your Eyes
+https://api.spotify.com/v1/tracks/65B1tEOv5W294uCKbmEcFV,65B1tEOv5W294uCKbmEcFV,I Hope You Dance,70,spotify:track:65B1tEOv5W294uCKbmEcFV,I Hope You Dance
+https://api.spotify.com/v1/tracks/5CwZU4BVFX0dyqG1gKfHHr,5CwZU4BVFX0dyqG1gKfHHr,The Fireman,61,spotify:track:5CwZU4BVFX0dyqG1gKfHHr,Does Fort Worth Ever Cross Your Mind
+https://api.spotify.com/v1/tracks/2dRPQFwPqAmc42mDRnsDQu,2dRPQFwPqAmc42mDRnsDQu,All-American Girl,66,spotify:track:2dRPQFwPqAmc42mDRnsDQu,Carnival Ride
+https://api.spotify.com/v1/tracks/5aj0xPGiEUN3aI2oOYu14S,5aj0xPGiEUN3aI2oOYu14S,I Don't Dance,71,spotify:track:5aj0xPGiEUN3aI2oOYu14S,I Don't Dance (Deluxe Edition)
+https://api.spotify.com/v1/tracks/5JlH51YDYsGj2dyEJKKjcN,5JlH51YDYsGj2dyEJKKjcN,Alright,72,spotify:track:5JlH51YDYsGj2dyEJKKjcN,Learn To Live
+https://api.spotify.com/v1/tracks/3wlZNYZnhINy3xgQOuUhwO,3wlZNYZnhINy3xgQOuUhwO,Saltwater Gospel,64,spotify:track:3wlZNYZnhINy3xgQOuUhwO,Fingerprints
+https://api.spotify.com/v1/tracks/2TR7A4ulH9R1PNwMyd8o8U,2TR7A4ulH9R1PNwMyd8o8U,This Is How We Roll,74,spotify:track:2TR7A4ulH9R1PNwMyd8o8U,Here's To The Good Times...This Is How We Roll
+https://api.spotify.com/v1/tracks/6s3dgEQgen7G85NtYUTEbD,6s3dgEQgen7G85NtYUTEbD,Every Storm (Runs Out Of Rain),67,spotify:track:6s3dgEQgen7G85NtYUTEbD,Set You Free
+https://api.spotify.com/v1/tracks/1S4fpfX2u0hzFD9vb6FEB6,1S4fpfX2u0hzFD9vb6FEB6,Three Wooden Crosses,65,spotify:track:1S4fpfX2u0hzFD9vb6FEB6,On the Other Hand - All the Number Ones
+https://api.spotify.com/v1/tracks/5XqHOqbjKb7YsQV6f3eGeD,5XqHOqbjKb7YsQV6f3eGeD,Georgia Time,67,spotify:track:5XqHOqbjKb7YsQV6f3eGeD,Georgia Time
+https://api.spotify.com/v1/tracks/4ly1QBXEwYoDmje9rmEgC4,4ly1QBXEwYoDmje9rmEgC4,Head Over Boots,75,spotify:track:4ly1QBXEwYoDmje9rmEgC4,California Sunrise
+https://api.spotify.com/v1/tracks/04Dc0mKBoPmK6DuutvxQjf,04Dc0mKBoPmK6DuutvxQjf,Life's a Dance - 2011 Remaster,61,spotify:track:04Dc0mKBoPmK6DuutvxQjf,Rhino Hi-Five: John Michael Montgomery
+https://api.spotify.com/v1/tracks/5vLonpxn4VN0A8GtQOBSG0,5vLonpxn4VN0A8GtQOBSG0,When the Sun Goes Down,69,spotify:track:5vLonpxn4VN0A8GtQOBSG0,When The Sun Goes Down
+https://api.spotify.com/v1/tracks/0BCy325UZyR9z0t0uxwn2N,0BCy325UZyR9z0t0uxwn2N,H.O.L.Y.,74,spotify:track:0BCy325UZyR9z0t0uxwn2N,Dig Your Roots
+https://api.spotify.com/v1/tracks/4LiMQ6G9n84rDUBs9wtwz6,4LiMQ6G9n84rDUBs9wtwz6,Singles You Up,72,spotify:track:4LiMQ6G9n84rDUBs9wtwz6,Home State
+https://api.spotify.com/v1/tracks/50PU05RTGva8laKDwxED9Y,50PU05RTGva8laKDwxED9Y,Louisiana Saturday Night,70,spotify:track:50PU05RTGva8laKDwxED9Y,I'm Countryfied
+https://api.spotify.com/v1/tracks/7rDcULv8vV16vetBjPJhuE,7rDcULv8vV16vetBjPJhuE,How Do You Like Me Now?!,66,spotify:track:7rDcULv8vV16vetBjPJhuE,How Do You Like Me Now?!
+https://api.spotify.com/v1/tracks/2mfahQ0EaaZWq4cFNg6A1o,2mfahQ0EaaZWq4cFNg6A1o,All On Me,69,spotify:track:2mfahQ0EaaZWq4cFNg6A1o,Dark Horse
+https://api.spotify.com/v1/tracks/6OqdF0vHI9xkqswI7EK0cD,6OqdF0vHI9xkqswI7EK0cD,Cowboy Casanova,65,spotify:track:6OqdF0vHI9xkqswI7EK0cD,Play On
+https://api.spotify.com/v1/tracks/5ytc87gcx6dZ4nWRNykinV,5ytc87gcx6dZ4nWRNykinV,Night Train,65,spotify:track:5ytc87gcx6dZ4nWRNykinV,Night Train
+https://api.spotify.com/v1/tracks/5HGibWoxnkYSkl6mHmAlOE,5HGibWoxnkYSkl6mHmAlOE,That's My Kind Of Night,74,spotify:track:5HGibWoxnkYSkl6mHmAlOE,Crash My Party
+https://api.spotify.com/v1/tracks/59MIR30ATtW8kTaX3SCpq0,59MIR30ATtW8kTaX3SCpq0,Blue Clear Sky,65,spotify:track:59MIR30ATtW8kTaX3SCpq0,Blue Clear Sky
+https://api.spotify.com/v1/tracks/23EkfwUdsRIz7jAZIcC8gb,23EkfwUdsRIz7jAZIcC8gb,Stay A Little Longer,67,spotify:track:23EkfwUdsRIz7jAZIcC8gb,Pawn Shop
+https://api.spotify.com/v1/tracks/5sRLBlFHRFk3LerdiGs4Z6,5sRLBlFHRFk3LerdiGs4Z6,Tight Fittin' Jeans,64,spotify:track:5sRLBlFHRFk3LerdiGs4Z6,Red Neckin' Love Makin' Night
+https://api.spotify.com/v1/tracks/1LM5zQv5pBKPyO7rm7Uz6U,1LM5zQv5pBKPyO7rm7Uz6U,My Church,71,spotify:track:1LM5zQv5pBKPyO7rm7Uz6U,HERO (Deluxe Edition)
+https://api.spotify.com/v1/tracks/7B6m8tHAYZsOKOKMU5SR2n,7B6m8tHAYZsOKOKMU5SR2n,Take A Back Road,69,spotify:track:7B6m8tHAYZsOKOKMU5SR2n,Take A Back Road
+https://api.spotify.com/v1/tracks/2HmMklpgK8vGCpJmPpz1yG,2HmMklpgK8vGCpJmPpz1yG,How Forever Feels,63,spotify:track:2HmMklpgK8vGCpJmPpz1yG,Everywhere We Go
+https://api.spotify.com/v1/tracks/2QVzUws1l5mzZ4v46tGHrC,2QVzUws1l5mzZ4v46tGHrC,Love You Like That,67,spotify:track:2QVzUws1l5mzZ4v46tGHrC,Bronco
+https://api.spotify.com/v1/tracks/63u5QGp9dKXAoYTVKUKBYn,63u5QGp9dKXAoYTVKUKBYn,Watching Airplanes,69,spotify:track:63u5QGp9dKXAoYTVKUKBYn,Living Hard
+https://api.spotify.com/v1/tracks/7Lr4XaxGpkAwa37IVgg22k,7Lr4XaxGpkAwa37IVgg22k,Back To Life,63,spotify:track:7Lr4XaxGpkAwa37IVgg22k,Back To Life
+https://api.spotify.com/v1/tracks/4JNdKmSZRsYDBwhIgZpa5M,4JNdKmSZRsYDBwhIgZpa5M,Don't Tread on Me (feat. Earl Dibbles Jr.),62,spotify:track:4JNdKmSZRsYDBwhIgZpa5M,When The Good Guys Win
+https://api.spotify.com/v1/tracks/77Y57qRJBvkGCUw9qs0qMg,77Y57qRJBvkGCUw9qs0qMg,In the Blood,66,spotify:track:77Y57qRJBvkGCUw9qs0qMg,The Search for Everything
+https://api.spotify.com/v1/tracks/7GH8qNOm2gEKryVUyVzkmt,7GH8qNOm2gEKryVUyVzkmt,Delta Dawn,65,spotify:track:7GH8qNOm2gEKryVUyVzkmt,Tanya Tucker / Super Hits
+https://api.spotify.com/v1/tracks/6EGAfJaLUFzhS4zRBIEQ2J,6EGAfJaLUFzhS4zRBIEQ2J,You Make It Easy,74,spotify:track:6EGAfJaLUFzhS4zRBIEQ2J,Rearview Town
+https://api.spotify.com/v1/tracks/0mG66FLhO0iZ6XCAGdjpax,0mG66FLhO0iZ6XCAGdjpax,Elvira,64,spotify:track:0mG66FLhO0iZ6XCAGdjpax,Fancy Free
+https://api.spotify.com/v1/tracks/4O7sDupv5V7qEBk96qOZyi,4O7sDupv5V7qEBk96qOZyi,Simple Man,64,spotify:track:4O7sDupv5V7qEBk96qOZyi,Simple Man
+https://api.spotify.com/v1/tracks/1YhFtqwcN138S6ng3MT1nN,1YhFtqwcN138S6ng3MT1nN,Rain Is A Good Thing,70,spotify:track:1YhFtqwcN138S6ng3MT1nN,Doin' My Thing
+https://api.spotify.com/v1/tracks/5BzDjeCZYxDd35rYSWY0yk,5BzDjeCZYxDd35rYSWY0yk,Drivin’ Around Song (feat. Jason Aldean),61,spotify:track:5BzDjeCZYxDd35rYSWY0yk,Declaration of Independence (Deluxe Edition)
+https://api.spotify.com/v1/tracks/5AnSllIrgGsCZzZJkVnApx,5AnSllIrgGsCZzZJkVnApx,Eyes On You,74,spotify:track:5AnSllIrgGsCZzZJkVnApx,Lambs & Lions
+https://api.spotify.com/v1/tracks/19lw4C2aW6TYvxqRsek2Kd,19lw4C2aW6TYvxqRsek2Kd,I Can Love You Like That,61,spotify:track:19lw4C2aW6TYvxqRsek2Kd,John Michael Montgomery
+https://api.spotify.com/v1/tracks/1cktZnxiONH0hR6Q3DKy8h,1cktZnxiONH0hR6Q3DKy8h,Drink In My Hand,75,spotify:track:1cktZnxiONH0hR6Q3DKy8h,Chief
+https://api.spotify.com/v1/tracks/0jn2XqaHliEpWd04ZykIHy,0jn2XqaHliEpWd04ZykIHy,Stay,69,spotify:track:0jn2XqaHliEpWd04ZykIHy,Enjoy The Ride
+https://api.spotify.com/v1/tracks/1Fo2N5iXRi37maMboaig7O,1Fo2N5iXRi37maMboaig7O,Undo It,62,spotify:track:1Fo2N5iXRi37maMboaig7O,Play On
+https://api.spotify.com/v1/tracks/1soxUgYIZb1qx1c7o1Lc7z,1soxUgYIZb1qx1c7o1Lc7z,Drunk On A Plane,72,spotify:track:1soxUgYIZb1qx1c7o1Lc7z,RISER
+https://api.spotify.com/v1/tracks/5jROdl6MhcmP3O7h2sVgtw,5jROdl6MhcmP3O7h2sVgtw,Parachute,73,spotify:track:5jROdl6MhcmP3O7h2sVgtw,Traveller
+https://api.spotify.com/v1/tracks/4Vxu50qVrQcycjRyJQaZLC,4Vxu50qVrQcycjRyJQaZLC,Life Changes,67,spotify:track:4Vxu50qVrQcycjRyJQaZLC,Life Changes
+https://api.spotify.com/v1/tracks/5pyB5WEAEwqwl18UaBLeBl,5pyB5WEAEwqwl18UaBLeBl,Small Town USA,62,spotify:track:5pyB5WEAEwqwl18UaBLeBl,Justin Moore
+https://api.spotify.com/v1/tracks/7A8OfzqXBHYGk61FZTHoeo,7A8OfzqXBHYGk61FZTHoeo,Boy,67,spotify:track:7A8OfzqXBHYGk61FZTHoeo,Lee Brice
+https://api.spotify.com/v1/tracks/5m7on0zpnmeAXy72ANrmfU,5m7on0zpnmeAXy72ANrmfU,Bad Girlfriend,70,spotify:track:5m7on0zpnmeAXy72ANrmfU,Scars & Souvenirs (Special Edition)
+https://api.spotify.com/v1/tracks/4b0XF7CDpJEBAdVHMw7amV,4b0XF7CDpJEBAdVHMw7amV,Just Got Started Lovin' You,66,spotify:track:4b0XF7CDpJEBAdVHMw7amV,Sunset Man (Standard Version)
+https://api.spotify.com/v1/tracks/3izNaTiYdotdPL0Bs76JqO,3izNaTiYdotdPL0Bs76JqO,My Girl,71,spotify:track:3izNaTiYdotdPL0Bs76JqO,Dylan Scott (Deluxe Edition)
+https://api.spotify.com/v1/tracks/4Az17HfqonKSWNsaLgTBeK,4Az17HfqonKSWNsaLgTBeK,If I Told You,64,spotify:track:4Az17HfqonKSWNsaLgTBeK,When Was The Last Time
+https://api.spotify.com/v1/tracks/2dwoqUYTy6SOy1dFqcTndC,2dwoqUYTy6SOy1dFqcTndC,Drowns The Whiskey (feat. Miranda Lambert),67,spotify:track:2dwoqUYTy6SOy1dFqcTndC,Rearview Town
+https://api.spotify.com/v1/tracks/57IEs29xqMQaAkjQ8iQuI0,57IEs29xqMQaAkjQ8iQuI0,Party Crowd,62,spotify:track:57IEs29xqMQaAkjQ8iQuI0,Out With A Bang
+https://api.spotify.com/v1/tracks/6IFPfV8PNSYOmufzQ95hmm,6IFPfV8PNSYOmufzQ95hmm,Confession,62,spotify:track:6IFPfV8PNSYOmufzQ95hmm,Anything Goes
+https://api.spotify.com/v1/tracks/6E9V9TRlVOLjenGjHemzEH,6E9V9TRlVOLjenGjHemzEH,Hard To Love,73,spotify:track:6E9V9TRlVOLjenGjHemzEH,Hard 2 Love
+https://api.spotify.com/v1/tracks/57I7CUbXo4XlWuTVB8pXW6,57I7CUbXo4XlWuTVB8pXW6,I Go Back,66,spotify:track:57I7CUbXo4XlWuTVB8pXW6,When The Sun Goes Down
+https://api.spotify.com/v1/tracks/3oW6SWwGqiZSPTiAp7ZQoH,3oW6SWwGqiZSPTiAp7ZQoH,It's A Great Day To Be Alive,74,spotify:track:3oW6SWwGqiZSPTiAp7ZQoH,Down The Road I Go
+https://api.spotify.com/v1/tracks/0ME1Lv9K21SHHrwYaClxlG,0ME1Lv9K21SHHrwYaClxlG,Bartender (Sittin' At A Bar),62,spotify:track:0ME1Lv9K21SHHrwYaClxlG,Bartender Song (Sittin' At A Bar)
+https://api.spotify.com/v1/tracks/7pY4ul6PNtKKHCCQgYVtT7,7pY4ul6PNtKKHCCQgYVtT7,Be My Baby Tonight,62,spotify:track:7pY4ul6PNtKKHCCQgYVtT7,Kickin' It Up
+https://api.spotify.com/v1/tracks/30MM5jWpUmOxtTNd9Ey5LZ,30MM5jWpUmOxtTNd9Ey5LZ,Unforgettable,71,spotify:track:30MM5jWpUmOxtTNd9Ey5LZ,Life Changes
+https://api.spotify.com/v1/tracks/3duP6mBVDsHM8ioN7o7dAK,3duP6mBVDsHM8ioN7o7dAK,Boondocks,71,spotify:track:3duP6mBVDsHM8ioN7o7dAK,The Road To Here
+https://api.spotify.com/v1/tracks/06gD2ZtK3Dzc1BYqWExQJJ,06gD2ZtK3Dzc1BYqWExQJJ,Broken Halos,75,spotify:track:06gD2ZtK3Dzc1BYqWExQJJ,From A Room: Volume 1
+https://api.spotify.com/v1/tracks/6nqvInlnaMzEzaw4s0zbee,6nqvInlnaMzEzaw4s0zbee,Doin' Fine,61,spotify:track:6nqvInlnaMzEzaw4s0zbee,Road Less Traveled
+https://api.spotify.com/v1/tracks/0NLBwQBYJhEM9t3KAMPFVR,0NLBwQBYJhEM9t3KAMPFVR,Sold (The Grundy County Auction Incident),72,spotify:track:0NLBwQBYJhEM9t3KAMPFVR,John Michael Montgomery
+https://api.spotify.com/v1/tracks/5TWhLgjy8cgb6CRPnnlnn2,5TWhLgjy8cgb6CRPnnlnn2,Whiskey Bent And Hell Bound,65,spotify:track:5TWhLgjy8cgb6CRPnnlnn2,Whiskey Bent And Hell Bound
+https://api.spotify.com/v1/tracks/6GsAD8PgHxmEuIPTG8GP3M,6GsAD8PgHxmEuIPTG8GP3M,It Goes Like This,66,spotify:track:6GsAD8PgHxmEuIPTG8GP3M,It Goes Like This
+https://api.spotify.com/v1/tracks/5fSPbm5lcwtqwXkeQQswW8,5fSPbm5lcwtqwXkeQQswW8,Record Year,70,spotify:track:5fSPbm5lcwtqwXkeQQswW8,Mr. Misunderstood
+https://api.spotify.com/v1/tracks/34SQ0QfLSR316d8KL2zkuZ,34SQ0QfLSR316d8KL2zkuZ,With You I Am,72,spotify:track:34SQ0QfLSR316d8KL2zkuZ,Gotta Be Me
+https://api.spotify.com/v1/tracks/6FHXJu99aQAUnivEjPhuUR,6FHXJu99aQAUnivEjPhuUR,I Cross My Heart - Pure Country Soundtrack Version,63,spotify:track:6FHXJu99aQAUnivEjPhuUR,Pure Country
+https://api.spotify.com/v1/tracks/0WyFpxYlBCgH1gMXd26OOr,0WyFpxYlBCgH1gMXd26OOr,Flatliner (feat. Dierks Bentley),65,spotify:track:0WyFpxYlBCgH1gMXd26OOr,You Should Be Here
+https://api.spotify.com/v1/tracks/37JPdGgYcQAJSElj5boJx8,37JPdGgYcQAJSElj5boJx8,Some Girls Do,63,spotify:track:37JPdGgYcQAJSElj5boJx8,The Dirt Road
+https://api.spotify.com/v1/tracks/0nprj2O0teCglthuhzTG5o,0nprj2O0teCglthuhzTG5o,Chicks Dig It - Single Edit,66,spotify:track:0nprj2O0teCglthuhzTG5o,Chris Cagle
+https://api.spotify.com/v1/tracks/1TKlBK9cSrM5u4CiL4SETS,1TKlBK9cSrM5u4CiL4SETS,Talladega,67,spotify:track:1TKlBK9cSrM5u4CiL4SETS,The Outsiders
+https://api.spotify.com/v1/tracks/4whYDpJ5XVQpmvecbEHP5Q,4whYDpJ5XVQpmvecbEHP5Q,Where It's At,63,spotify:track:4whYDpJ5XVQpmvecbEHP5Q,Where It's At
+https://api.spotify.com/v1/tracks/7wIaLkbQzG6HMnE28etnif,7wIaLkbQzG6HMnE28etnif,I Swear,65,spotify:track:7wIaLkbQzG6HMnE28etnif,Kickin' It Up
+https://api.spotify.com/v1/tracks/0ElpjZyX8YBiXuYcDC1Ci9,0ElpjZyX8YBiXuYcDC1Ci9,19 Somethin' - Greatest Hits Version,66,spotify:track:0ElpjZyX8YBiXuYcDC1Ci9,Greatest Hits
+https://api.spotify.com/v1/tracks/5S5rw0WLVCAux5B5bWCehK,5S5rw0WLVCAux5B5bWCehK,I Like The Sound Of That,68,spotify:track:5S5rw0WLVCAux5B5bWCehK,Rewind
+https://api.spotify.com/v1/tracks/7aftSOGSOpSoIlVAQVBb71,7aftSOGSOpSoIlVAQVBb71,Break Up In A Small Town,72,spotify:track:7aftSOGSOpSoIlVAQVBb71,Montevallo
+https://api.spotify.com/v1/tracks/0ogTZlmFqg5xyFCMpRAEb4,0ogTZlmFqg5xyFCMpRAEb4,Grandpa (Tell Me 'Bout The Good Old Days),62,spotify:track:0ogTZlmFqg5xyFCMpRAEb4,Rockin' With The Rhythm
+https://api.spotify.com/v1/tracks/5sjIhQzNljMVrDklI91ezp,5sjIhQzNljMVrDklI91ezp,A Guy with a Girl,64,spotify:track:5sjIhQzNljMVrDklI91ezp,If I'm Honest
+https://api.spotify.com/v1/tracks/3kg4W7OIAVSNTLjXArK0Kn,3kg4W7OIAVSNTLjXArK0Kn,The Race Is On,61,spotify:track:3kg4W7OIAVSNTLjXArK0Kn,The Boys Are Back
+https://api.spotify.com/v1/tracks/6FevJcaJvt5EvsHnuJHBnb,6FevJcaJvt5EvsHnuJHBnb,Fast as You,64,spotify:track:6FevJcaJvt5EvsHnuJHBnb,This Time
+https://api.spotify.com/v1/tracks/2yQZwi1P8AkkxxFhQ8rMEK,2yQZwi1P8AkkxxFhQ8rMEK,Greatest Love Story,73,spotify:track:2yQZwi1P8AkkxxFhQ8rMEK,Hallelujah Nights
+https://api.spotify.com/v1/tracks/567gPvGfxxKoZxDKqM9tEl,567gPvGfxxKoZxDKqM9tEl,Parallel Line,63,spotify:track:567gPvGfxxKoZxDKqM9tEl,Graffiti U
+https://api.spotify.com/v1/tracks/4YjjNHtEsTX6Af4mCTupT5,4YjjNHtEsTX6Af4mCTupT5,Bless The Broken Road,75,spotify:track:4YjjNHtEsTX6Af4mCTupT5,Feels Like Today
+https://api.spotify.com/v1/tracks/1zWZvrk13cL8Sl3VLeG57F,1zWZvrk13cL8Sl3VLeG57F,T-Shirt,66,spotify:track:1zWZvrk13cL8Sl3VLeG57F,Tangled Up
+https://api.spotify.com/v1/tracks/4a1oIihVt6xSnDRpgX387M,4a1oIihVt6xSnDRpgX387M,Burning Man,69,spotify:track:4a1oIihVt6xSnDRpgX387M,The Mountain
+https://api.spotify.com/v1/tracks/43lL05gZ1DqG4YJ74rCPmM,43lL05gZ1DqG4YJ74rCPmM,Yeah,61,spotify:track:43lL05gZ1DqG4YJ74rCPmM,Crickets
+https://api.spotify.com/v1/tracks/3R8YbAsBsFnGIKL25s6iiO,3R8YbAsBsFnGIKL25s6iiO,That Lonesome Song,66,spotify:track:3R8YbAsBsFnGIKL25s6iiO,That Lonesome Song
+https://api.spotify.com/v1/tracks/6cjwec9ii5uLK7CDfPBYt1,6cjwec9ii5uLK7CDfPBYt1,Wide Open Spaces,71,spotify:track:6cjwec9ii5uLK7CDfPBYt1,Wide Open Spaces
+https://api.spotify.com/v1/tracks/05BgC2247XGi8ySwBzOO0o,05BgC2247XGi8ySwBzOO0o,Heartbeat,62,spotify:track:05BgC2247XGi8ySwBzOO0o,Storyteller
+https://api.spotify.com/v1/tracks/2qYsSHsYkihWx043HVJQRV,2qYsSHsYkihWx043HVJQRV,Dirt Road Anthem,76,spotify:track:2qYsSHsYkihWx043HVJQRV,My Kinda Party
+https://api.spotify.com/v1/tracks/28cnXtME493VX9NOw9cIUh,28cnXtME493VX9NOw9cIUh,Hurt,78,spotify:track:28cnXtME493VX9NOw9cIUh,American IV: The Man Comes Around
+https://api.spotify.com/v1/tracks/5rX6C5QVvvZB7XckETNych,5rX6C5QVvvZB7XckETNych,All Summer Long,77,spotify:track:5rX6C5QVvvZB7XckETNych,Rock n Roll Jesus
+https://api.spotify.com/v1/tracks/56eGOeSsqdg3FLxdo83TwV,56eGOeSsqdg3FLxdo83TwV,Rumor,76,spotify:track:56eGOeSsqdg3FLxdo83TwV,Lee Brice
+https://api.spotify.com/v1/tracks/05ZACkzW8YbRq3eFgIfSNB,05ZACkzW8YbRq3eFgIfSNB,Springsteen,76,spotify:track:05ZACkzW8YbRq3eFgIfSNB,Chief
+https://api.spotify.com/v1/tracks/7zVCrzzEJU7u24sbJPXA5W,7zVCrzzEJU7u24sbJPXA5W,What Ifs (feat. Lauren Alaina),76,spotify:track:7zVCrzzEJU7u24sbJPXA5W,Kane Brown
+https://api.spotify.com/v1/tracks/6xHI9KjUjYT0FPtGO8Mxa1,6xHI9KjUjYT0FPtGO8Mxa1,Hurricane,78,spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,This One's for You
+https://api.spotify.com/v1/tracks/37f4ITSlgPX81ad2EvmVQr,37f4ITSlgPX81ad2EvmVQr,Fight Song,81,spotify:track:37f4ITSlgPX81ad2EvmVQr,Wildfire
+https://api.spotify.com/v1/tracks/3zkWCteF82vJwv0hRLba76,3zkWCteF82vJwv0hRLba76,Stitches,82,spotify:track:3zkWCteF82vJwv0hRLba76,Handwritten
+https://api.spotify.com/v1/tracks/3GJ4hzg4lrGwU51Y3VARbF,3GJ4hzg4lrGwU51Y3VARbF,Speechless,77,spotify:track:3GJ4hzg4lrGwU51Y3VARbF,Dan + Shay
+https://api.spotify.com/v1/tracks/10M2Ex445zw585Ducldzkw,10M2Ex445zw585Ducldzkw,In Case You Didn't Know,78,spotify:track:10M2Ex445zw585Ducldzkw,Brett Young
+https://api.spotify.com/v1/tracks/5kNe7PE09d6Kvw5pAsx23n,5kNe7PE09d6Kvw5pAsx23n,Die A Happy Man,77,spotify:track:5kNe7PE09d6Kvw5pAsx23n,Tangled Up
+https://api.spotify.com/v1/tracks/3fqwjXwUGN6vbzIwvyFMhx,3fqwjXwUGN6vbzIwvyFMhx,Tennessee Whiskey,83,spotify:track:3fqwjXwUGN6vbzIwvyFMhx,Traveller
+https://api.spotify.com/v1/tracks/2Fs18NaCDuluPG1DHGw1XG,2Fs18NaCDuluPG1DHGw1XG,Life is a Highway,78,spotify:track:2Fs18NaCDuluPG1DHGw1XG,Me And My Gang
+https://api.spotify.com/v1/tracks/2tgQaL85WoRfgEa4hFQgrE,2tgQaL85WoRfgEa4hFQgrE,Feathered Indians,79,spotify:track:2tgQaL85WoRfgEa4hFQgrE,Purgatory
+https://api.spotify.com/v1/tracks/1WzAeadSKJhqykZFbJNmQv,1WzAeadSKJhqykZFbJNmQv,Your Man,76,spotify:track:1WzAeadSKJhqykZFbJNmQv,Your Man
+https://api.spotify.com/v1/tracks/1HXy5I3HTWq8OvxCn0z7G7,1HXy5I3HTWq8OvxCn0z7G7,Heaven,76,spotify:track:1HXy5I3HTWq8OvxCn0z7G7,Kane Brown (Deluxe Edition)
+https://api.spotify.com/v1/tracks/42fw0rxRO2xbesF6mJfd4Y,42fw0rxRO2xbesF6mJfd4Y,Tequila,76,spotify:track:42fw0rxRO2xbesF6mJfd4Y,Dan + Shay
+https://api.spotify.com/v1/tracks/03fT3OHB9KyMtGMt2zwqCT,03fT3OHB9KyMtGMt2zwqCT,Play It Again,77,spotify:track:03fT3OHB9KyMtGMt2zwqCT,Crash My Party
+https://api.spotify.com/v1/tracks/2rxQMGVafnNaRaXlRMWPde,2rxQMGVafnNaRaXlRMWPde,Beautiful Crazy,81,spotify:track:2rxQMGVafnNaRaXlRMWPde,This One's for You Too (Deluxe Edition)
+https://api.spotify.com/v1/tracks/1KhrAWvLIjRlQIJtSTgvsi,1KhrAWvLIjRlQIJtSTgvsi,Would You Go With Me,76,spotify:track:1KhrAWvLIjRlQIJtSTgvsi,Your Man
+https://api.spotify.com/v1/tracks/7mldq42yDuxiUNn08nvzHO,7mldq42yDuxiUNn08nvzHO,Body Like A Back Road,76,spotify:track:7mldq42yDuxiUNn08nvzHO,Body Like A Back Road
+https://api.spotify.com/v1/tracks/1mMLMZYXkMueg65jRRWG1l,1mMLMZYXkMueg65jRRWG1l,When It Rains It Pours,80,spotify:track:1mMLMZYXkMueg65jRRWG1l,This One's for You
+https://api.spotify.com/v1/tracks/698eQRku24PIYPQPHItKlA,698eQRku24PIYPQPHItKlA,She Got the Best of Me,78,spotify:track:698eQRku24PIYPQPHItKlA,This One's for You Too (Deluxe Edition)
