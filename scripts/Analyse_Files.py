@@ -73,10 +73,10 @@ sd.default.device = 9
 
 scope = "user-library-read user-modify-playback-state user-read-playback-state"
     
-songs = pd.read_csv('~/Desktop/MIR_Project/scripts/pop.csv')
+songs = pd.read_csv('~/Desktop/MIR_Project/scripts/country.csv')
 #sp.start_playback(uris = ["spotify:track:6nYoTBmGFNgfTyRC8x1Fvp"])
 
-songs1 = songs.loc[170:200]
+songs1 = songs.loc[18:200]
 songs_test = songs.loc[1:3]
 
 sp = spotipy.Spotify(
@@ -131,5 +131,5 @@ for index, row in songs1.iterrows():
 
 all_res = np.array([results_index,results_mean,results_sd])
 all_res = np.transpose(all_res)
-np.savetxt("Pop_results_170_200.csv", all_res, delimiter= ',')
+np.savetxt("Country_0_17.csv", all_res, delimiter= ',')
 #mean_np = np.array(results)
