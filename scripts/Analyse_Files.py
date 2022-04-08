@@ -25,6 +25,14 @@ import os
 import pyrle
 import math
 import vamp
+import librosa
+
+def redund_ssm(audio,sr):
+    audio = np.ndarray.flatten(audio)
+    chroma = librosa.feature.chroma_stft(y=audio,sr=sr,norm=2)
+    ssm1 = np.dot(np.transpose(chroma),chroma)
+    val = np.mean(ssm1)
+    return(val)
 
 def calc_redundancy(audio,sr, filter_size = 7, remove_len = 5, base_pattern_length = 5):
     audio = np.ndarray.flatten(audio)
@@ -76,7 +84,7 @@ scope = "user-library-read user-modify-playback-state user-read-playback-state"
 songs = pd.read_csv('~/Desktop/MIR_Project/scripts/country.csv')
 #sp.start_playback(uris = ["spotify:track:6nYoTBmGFNgfTyRC8x1Fvp"])
 
-songs1 = songs.loc[18:200]
+songs1 = songs.loc[350:439]
 songs_test = songs.loc[1:3]
 
 sp = spotipy.Spotify(
@@ -91,6 +99,7 @@ sp = spotipy.Spotify(
                 retries=10
         )
 
+results_ssm = []
 results_mean = []
 results_sd = []
 results_index = []
@@ -125,11 +134,14 @@ for index, row in songs1.iterrows():
         results_sd.append(metric[1])
         results_index.append(index)
         print("Redundancy = " + str(metric[0]))
+        metric2 = redund_ssm(recording,44100)
+        results_ssm.append(metric2)
+        print("RedundancySSM = " + str(metric2))
     except:
         print("Didn't work")
     del(recording)
 
-all_res = np.array([results_index,results_mean,results_sd])
+all_res = np.array([results_index,results_ssm, results_mean,results_sd])
 all_res = np.transpose(all_res)
-np.savetxt("Country_0_17.csv", all_res, delimiter= ',')
+np.savetxt("Country_350_403.csv", all_res, delimiter= ',')
 #mean_np = np.array(results)
