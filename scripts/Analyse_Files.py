@@ -21,11 +21,50 @@ import wave
 import sounddevice as sd
 from scipy.signal import savgol_filter
 from fuzzywuzzy import fuzz
-import os
 import pyrle
 import math
 import vamp
 import librosa
+import os
+from spleeter.separator import Separator
+import ffmpeg
+
+
+def calc_spleeter(audio,sr,filter_size = 7, remove_len = 5, base_pattern_length = 5):
+    scipy.io.wavfile.write('temp_rec.wav', int(sr), audio)
+    os.system("python -m spleeter separate -o temp_output temp_rec.wav")
+    newAudio, sr = librosa.load("temp_output/temp_rec/vocals.wav")
+    F0,voice,vprob = librosa.pyin(newAudio,100,1500,sr)
+    mel_norest = F0[voice]
+    result = savgol_filter(mel_norest, filter_size, 5)
+    pt4 = np.where(result==0, 1, result)
+    float_midi = 69 + 12*np.log2(pt4/440.)
+    int_midi = np.array([round(x) for x in float_midi])
+
+    for (i,f) in enumerate(float_midi): 
+        if f < 40: 
+            float_midi[i] = 0 
+            int_midi[i] = 0 
+
+    rle = pyrle.Rle(int_midi)
+    rle_vals = rle.values
+    rle_runs = rle.runs
+    final_notes = rle_vals[rle_runs > remove_len]
+    note_diff = np.ediff1d(final_notes)
+    note_diff = note_diff + abs(min(note_diff))
+    note_diff = note_diff.astype(int)
+
+    numnotes = len(note_diff)
+    breaks = np.arange(0,numnotes,base_pattern_length)
+    res = np.zeros(0)
+    for i in range(0,len(breaks)-1):
+        base_pattern = note_diff[breaks[i]:breaks[i+1]]
+        bpstr = ''.join(map(str, base_pattern))
+        for j in range(i+1, len(breaks)-1):
+            p2str = ''.join(map(str, note_diff[breaks[j]:breaks[j+1]]))
+            res = np.append(res,fuzz.ratio(bpstr,p2str))
+    return(np.mean(res), np.std(res))
+
 
 def redund_ssm(audio,sr):
     audio = np.ndarray.flatten(audio)
@@ -81,10 +120,10 @@ sd.default.device = 9
 
 scope = "user-library-read user-modify-playback-state user-read-playback-state"
     
-songs = pd.read_csv('~/Desktop/MIR_Project/scripts/country.csv')
+songs = pd.read_csv('~/Desktop/MIR_Project/scripts/SmallPop.csv')
 #sp.start_playback(uris = ["spotify:track:6nYoTBmGFNgfTyRC8x1Fvp"])
 
-songs1 = songs.loc[350:439]
+songs1 = songs.loc[149:200]
 songs_test = songs.loc[1:3]
 
 sp = spotipy.Spotify(
@@ -99,11 +138,12 @@ sp = spotipy.Spotify(
                 retries=10
         )
 
-results_ssm = []
+
 results_mean = []
 results_sd = []
 results_index = []
-for index, row in songs1.iterrows():
+for index, row in songs.iterrows():
+    index = row['Index']
     song_id = row['uri']
     try:
         RECORD_SECONDS = int(sp.audio_features(tracks = [song_id])[0]['duration_ms']/1000)
@@ -129,19 +169,16 @@ for index, row in songs1.iterrows():
     print(np.max(recording))
     ##scipy.io.wavfile.write("Test_Song_"+str(index)+".wav",44100,recording)
     try:
-        metric = calc_redundancy(recording,44100,filter_size=25)
+        metric = calc_spleeter(recording,44100,filter_size=25)
         results_mean.append(metric[0])
         results_sd.append(metric[1])
         results_index.append(index)
         print("Redundancy = " + str(metric[0]))
-        metric2 = redund_ssm(recording,44100)
-        results_ssm.append(metric2)
-        print("RedundancySSM = " + str(metric2))
     except:
         print("Didn't work")
     del(recording)
 
-all_res = np.array([results_index,results_ssm, results_mean,results_sd])
+all_res = np.array([results_index, results_mean,results_sd])
 all_res = np.transpose(all_res)
-np.savetxt("Country_350_403.csv", all_res, delimiter= ',')
+np.savetxt("Pop_Spleeter.csv", all_res, delimiter= ',')
 #mean_np = np.array(results)
